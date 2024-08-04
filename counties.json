@@ -1,0 +1,14 @@
+[
+    {"name": "Nairobi", "latitude": -1.286389, "longitude": 36.817223},
+    {"name": "Bungoma", "latitude": 0.569525, "longitude": 34.558376},
+    {"name": "Kisii", "latitude": -0.680482, "longitude": 34.777061},
+    {"name": "Eldoret", "latitude": 0.514277, "longitude": 35.269779},
+    {"name": "Naivasha", "latitude": -0.717178, "longitude": 36.431026},
+    {"name": "Malindi", "latitude": -3.219186, "longitude": 40.116890},
+    {"name": "Kitui", "latitude": -1.375081, "longitude": 37.995213},
+    {"name": "Kikuyu", "latitude": -1.254337, "longitude": 36.681660},
+    {"name": "Nakuru", "latitude": -0.303099, "longitude": 36.080025},
+    {"name": "Kitale", "latitude": 1.019089, "longitude": 35.002304},
+    {"name": "Mombasa", "latitude": -4.043740, "longitude": 39.658871},
+    {"name": "Kisumu", "latitude": -0.091702, "longitude": 34.767956}
+]

@@ -9,15 +9,15 @@
     },
     {
         "question": "Je, ninawezaje kuboresha rutuba ya udongo kwa mazao bora ya mazao?",
-        "answer": "Kuboresha rutuba ya udongo kunaweza kupatikana kwa kutumia mbolea ya kikaboni kama vile mboji na mboji ya shambani, kutumia mbolea za kemikali zinazofaa kulingana na vipimo vya udongo, kufanya mazoezi ya kubadilisha mazao na kupanda mseto, na kuingiza mikunde kwenye mifumo ya mazao ili kurekebisha nitrojeni kwenye udongo."
+        "answer": "Kuboresha rutuba ya udongo kunaweza kupatikana kwa kutumia mbolea ya kikaboni kama vile mboji na mboji ya shambani, kuweka mbolea za kemikali zinazofaa kulingana na vipimo vya udongo, kufanya mazoezi ya kubadilisha mazao na kupanda mseto, na kuingiza mikunde kwenye mifumo ya mazao ili kurekebisha nitrojeni kwenye udongo."
     },
     {
         "question": "Je, ni mbinu gani bora za kupanda mahindi nchini Kenya?",
-        "answer": "Mbinu bora za kupanda mahindi ni pamoja na kuchagua mbegu zilizoidhinishwa zinazofaa kwa eneo lako, kupanda mwanzoni mwa msimu wa mvua, kwa kutumia nafasi inayopendekezwa (cm 75 kati ya mstari na 25 kati ya mimea), na kupaka mbolea kama vile DAP wakati wa kupanda na kuweka juu na mimea. urea."
+        "answer": "Mbinu bora za kupanda mahindi ni pamoja na kuchagua mbegu zilizoidhinishwa zinazofaa kwa eneo lako, kupanda mwanzoni mwa msimu wa mvua, kwa kutumia nafasi inayopendekezwa (cm 75 kati ya mstari na 25 kati ya mimea), na kupaka mbolea kama vile DAP wakati wa kupanda na kuweka juu na urea."
     },
     {
         "question": "Je, ninawezaje kudhibiti wadudu na magonjwa katika mazao yangu?",
-        "answer": "Udhibiti wa wadudu na magonjwa unaweza kufikiwa kupitia mbinu jumuishi za udhibiti wa wadudu (IPM), ambazo ni pamoja na mzunguko wa mazao, matumizi ya aina sugu, upandaji kwa wakati, uchunguzi wa mara kwa mara wa shambani, mbinu za udhibiti wa kibayolojia, na matumizi ifaayo ya viuatilifu vya kemikali kama njia ya mwisho."
+        "answer": "Udhibiti wa wadudu na magonjwa unaweza kuafikiwa kupitia mbinu jumuishi za udhibiti wa wadudu (IPM), ambazo ni pamoja na mzunguko wa mazao, matumizi ya aina sugu, upandaji kwa wakati, uchunguzi wa mara kwa mara wa shambani, mbinu za udhibiti wa kibayolojia, na matumizi sahihi ya viuatilifu vya kemikali kama suluhu la mwisho."
     },
     {
         "question": "Je, ni faida gani za kutumia mbegu zilizoidhinishwa?",
@@ -33,7 +33,7 @@
     },
     {
         "question": "Je, ninawezaje kusimamia maji kwa ufanisi katika shamba langu?",
-        "answer": "Usimamizi bora wa maji unahusisha kutumia mbinu za umwagiliaji za kuokoa maji kama vile umwagiliaji kwa njia ya matone au kunyunyizia maji, kufanya mazoezi ya kuvuna maji ya mvua, kuweka matandazo ili kupunguza uvukizi, na kupanga umwagiliaji kulingana na mahitaji ya mazao na viwango vya unyevu wa udongo."
+        "answer": "Udhibiti mzuri wa maji unahusisha kutumia mbinu za umwagiliaji za kuokoa maji kama vile umwagiliaji kwa njia ya matone au kinyunyuziaji, kufanya mazoezi ya kuvuna maji ya mvua, kuweka matandazo ili kupunguza uvukizi, na kupanga umwagiliaji kulingana na mahitaji ya mazao na viwango vya unyevu wa udongo."
     },
     {
         "question": "Je, ni mbinu gani bora za kupanda mboga nchini Kenya?",
@@ -41,23 +41,23 @@
     },
     {
         "question": "Je, ninawezaje kuhakikisha kwamba mazao yangu yanapata virutubisho vya kutosha?",
-        "answer": "Kuhakikisha mazao yanapata rutuba ya kutosha kunahusisha kufanya majaribio ya udongo mara kwa mara ili kubaini upungufu wa virutubishi, uwekaji wa mbolea inayofaa kulingana na matokeo ya majaribio, kujumuisha viumbe hai kwenye udongo, na kutumia ulishaji wa majani kushughulikia mahitaji maalum ya virutubishi wakati wa msimu wa ukuaji."
+        "answer": "Kuhakikisha mazao yanapata rutuba ya kutosha kunahusisha kufanya majaribio ya udongo mara kwa mara ili kubaini upungufu wa virutubishi, uwekaji wa mbolea zinazofaa kulingana na matokeo ya majaribio, kujumuisha viumbe hai kwenye udongo, na kutumia ulishaji wa majani kushughulikia mahitaji maalum ya virutubisho wakati wa msimu wa ukuaji."
     },
     {
-        "question": "Je, ni faida gani za kufanya mazoezi ya kubadilisha mazao?",
+        "question": "Je, ni faida gani za kufanya mazoezi ya mzunguko wa mazao?",
         "answer": "Mzunguko wa mazao husaidia kuvunja mzunguko wa wadudu na magonjwa, huboresha rutuba na muundo wa udongo, hupunguza mmomonyoko wa udongo, na huongeza bayoanuwai. Pia inaruhusu matumizi bora ya rutuba ya udongo kwa kubadilisha mazao yenye mahitaji tofauti ya virutubisho."
     },
     {
         "question": "Je, ninawezaje kudhibiti magugu katika shamba langu?",
-        "answer": "Udhibiti wa magugu unaweza kupatikana kupitia mchanganyiko wa mbinu za kiufundi, kemikali na kitamaduni. Mbinu za kimitambo ni pamoja na palizi na kupalilia kwa mikono, mbinu za kemikali zinahusisha matumizi ya dawa za kuulia magugu, na mbinu za kitamaduni ni pamoja na kuweka matandazo, kubadilisha mazao, na upandaji miti kwa kufunika ili kuzuia ukuaji wa magugu."
+        "answer": "Udhibiti wa magugu unaweza kupatikana kupitia mchanganyiko wa mbinu za kiufundi, kemikali na kitamaduni. Mbinu za kimitambo ni pamoja na palizi na kupalilia kwa mikono, mbinu za kemikali zinahusisha matumizi ya dawa za kuua magugu, na mbinu za kitamaduni ni pamoja na kuweka matandazo, kubadilisha mazao, na upandaji miti kwa ajili ya kufunika ili kuzuia ukuaji wa magugu."
     },
     {
         "question": "Je, ni mambo gani muhimu ya kuzingatia kwa utunzaji wa mazao baada ya kuvuna?",
-        "answer": "Mambo muhimu ya kuzingatia baada ya kuvuna ni pamoja na ukaushaji sahihi ili kupunguza unyevu, utunzaji makini ili kuepuka uharibifu wa kimwili, mazingira sahihi ya kuhifadhi ili kuzuia kuharibika na kushambuliwa na wadudu, na uuzaji kwa wakati ili kuhakikisha mazao yanafika sokoni yakiwa bado mabichi."
+        "answer": "Mambo muhimu ya kuzingatia kwa utunzaji baada ya kuvuna ni pamoja na ukaushaji sahihi ili kupunguza unyevu, utunzaji makini ili kuepuka uharibifu wa kimwili, mazingira sahihi ya kuhifadhi ili kuzuia kuharibika na kushambuliwa na wadudu, na uuzaji kwa wakati ili kuhakikisha mazao yanafika sokoni yakiwa bado mabichi."
     },
     {
         "question": "Je, ninawezaje kuuza mazao yangu ya shambani kwa ufanisi?",
-        "answer": "Mikakati madhubuti ya uuzaji ni pamoja na kuelewa mahitaji na mienendo ya soko, kuunda vyama vya ushirika au vikundi vya wakulima ili kufikia masoko makubwa zaidi, kuchunguza fursa za kuongeza thamani, kutumia mifumo ya kidijitali ya uuzaji, na kuanzisha uhusiano wa moja kwa moja na wanunuzi kama vile masoko ya ndani, maduka makubwa na wasindikaji."
+        "answer": "Mikakati madhubuti ya uuzaji ni pamoja na kuelewa mahitaji na mwelekeo wa soko, kuunda vyama vya ushirika au vikundi vya wakulima ili kufikia masoko makubwa zaidi, kuchunguza fursa za kuongeza thamani, kutumia mifumo ya kidijitali ya uuzaji, na kuanzisha uhusiano wa moja kwa moja na wanunuzi kama vile masoko ya ndani, maduka makubwa na wasindikaji."
     },
     {
         "question": "Je, ni faida gani za kutumia mbinu za kilimo-hai?",
@@ -73,7 +73,7 @@
     },
     {
         "question": "Je, ninawezaje kuongeza ustahimilivu wa shamba langu dhidi ya mabadiliko ya hali ya hewa?",
-        "answer": "Kuongeza uwezo wa kustahimili mabadiliko ya hali ya hewa kunahusisha kufuata mazoea ya kukabiliana na hali ya hewa kama vile kutumia aina za mazao zinazostahimili ukame, kufanya kilimo hifadhi, mazao mseto, kutekeleza mifumo bora ya usimamizi wa maji, na kukaa na habari kuhusu utabiri wa hali ya hewa na ushauri."
+        "answer": "Kuongezeka kwa ustahimilivu dhidi ya mabadiliko ya tabianchi kunahusisha kufuata mazoea ya kukabiliana na hali ya hewa kama vile kutumia aina za mazao zinazostahimili ukame, kufanya kilimo hifadhi, mazao mseto, kutekeleza mifumo bora ya usimamizi wa maji, na kuendelea kufahamishwa kuhusu utabiri wa hali ya hewa na ushauri."
     },
     {
         "question": "Je, ni faida gani za kilimo hifadhi?",
@@ -81,7 +81,7 @@
     },
     {
         "question": "Je, nitachaguaje mbolea inayofaa kwa mazao yangu?",
-        "answer": "Kuchagua mbolea inayofaa kunahusisha kufanya vipimo vya udongo ili kubaini upungufu wa virutubisho, kuchagua mbolea zinazotoa virutubisho vinavyohitajika, kwa kuzingatia hatua ya ukuaji wa mazao, na kufuata viwango vya uwekaji vilivyopendekezwa na muda ili kuepuka kurutubisha kupita kiasi na kurudiwa kwa virutubisho."
+        "answer": "Kuchagua mbolea inayofaa inahusisha kufanya vipimo vya udongo ili kubaini upungufu wa virutubisho, kuchagua mbolea zinazotoa virutubisho vinavyohitajika, kwa kuzingatia hatua ya ukuaji wa mazao, na kufuata viwango vya uwekaji vilivyopendekezwa na muda ili kuepuka kurutubisha kupita kiasi na kurudiwa kwa virutubisho."
     },
     {
         "question": "Je, ni mbinu gani bora za kupanda chai nchini Kenya?",
@@ -89,7 +89,7 @@
     },
     {
         "question": "Je, ninawezaje kudhibiti magonjwa ya mazao kwa ufanisi?",
-        "answer": "Udhibiti mzuri wa magonjwa ya mazao unahusisha kutumia aina zinazostahimili magonjwa, kufanya mzunguko wa mazao, kudumisha usafi wa shamba, ufuatiliaji wa dalili za mapema za magonjwa, kutumia dawa zinazofaa za kuua ukungu au mawakala wa kudhibiti kibayolojia, na kufuata mila zilizopendekezwa ili kupunguza matukio ya magonjwa."
+        "answer": "Udhibiti mzuri wa magonjwa ya mazao unahusisha kutumia aina zinazostahimili magonjwa, kufanya mzunguko wa mazao, kudumisha usafi wa shamba, ufuatiliaji wa dalili za mapema za ugonjwa, kutumia dawa zinazofaa za kuua ukungu au mawakala wa kudhibiti kibayolojia, na kufuata desturi zinazopendekezwa ili kupunguza matukio ya magonjwa."
     },
     {
         "question": "Je, ni mbinu gani bora za kupanda kahawa nchini Kenya?",
@@ -97,7 +97,7 @@
     },
     {
         "question": "Je, ninawezaje kutekeleza usimamizi jumuishi wa wadudu (IPM) katika shamba langu?",
-        "answer": "Utekelezaji wa IPM unahusisha ufuatiliaji wa idadi ya wadudu, kwa kutumia mbinu za udhibiti wa kibayolojia kama vile wadudu na vimelea asilia, kufanya udhibiti wa kitamaduni kama vile mzunguko wa mazao na usafi wa mazingira, kutumia udhibiti wa kimitambo kama mitego, na kutumia udhibiti wa kemikali kama suluhu la mwisho kwa kuzingatia vizingiti vya kiuchumi."
+        "answer": "Utekelezaji wa IPM unahusisha ufuatiliaji wa idadi ya wadudu, kwa kutumia mbinu za udhibiti wa kibayolojia kama vile wadudu na vimelea vya asili, kufanya udhibiti wa kitamaduni kama vile mzunguko wa mazao na usafi wa mazingira, kutumia udhibiti wa kimitambo kama mitego, na kutumia udhibiti wa kemikali kama suluhu la mwisho kwa kuzingatia vizingiti vya kiuchumi."
     },
     {
         "question": "Je, ni mbinu gani bora za kukuza miwa nchini Kenya?",
@@ -109,15 +109,15 @@
     },
     {
         "question": "Je, ni mbinu gani bora za kukuza mpunga nchini Kenya?",
-        "answer": "Mbinu bora za kupanda mpunga ni pamoja na kuchagua aina zinazotoa mavuno mengi zinazofaa kwa eneo hili, kuandaa mashamba yaliyosawazishwa vizuri na yenye madimbwi, kwa kutumia njia ya kupandikiza au kupanda mbegu moja kwa moja, kuweka mbolea inayofaa kulingana na vipimo vya udongo, kuhakikisha usimamizi mzuri wa maji, na kutekeleza wadudu jumuishi na wadudu. usimamizi wa magonjwa."
+        "answer": "Mbinu bora za kupanda mpunga ni pamoja na kuchagua aina zinazotoa mavuno mengi zinazofaa kwa eneo hili, kuandaa mashamba yaliyosawazishwa vizuri na yenye madimbwi, kutumia njia ya kupandikiza au kupanda mbegu moja kwa moja, kuweka mbolea inayofaa kulingana na vipimo vya udongo, kuhakikisha usimamizi mzuri wa maji, na kutekeleza wadudu jumuishi na wadudu. usimamizi wa magonjwa."
     },
     {
         "question": "Je, ninawezaje kuboresha mabaki ya udongo kwenye shamba langu?",
-        "answer": "Uboreshaji wa mabaki ya viumbe hai kwenye udongo unaweza kupatikana kwa kuongeza mboji, samadi ya shambani, mbolea ya kijani, kufanya mazoezi ya kubadilisha mazao na kunde, upandaji miti kwa ajili ya kufunika udongo, na kupunguza usumbufu wa udongo kwa njia ndogo za kulima."
+        "answer": "Uboreshaji wa mabaki ya viumbe hai kwenye udongo unaweza kupatikana kwa kuongeza mboji, samadi ya shambani, mbolea ya kijani, kufanya mazoezi ya kubadilisha mazao na kunde, upandaji wa mazao ya kufunika, na kupunguza usumbufu wa udongo kwa njia ndogo za kulima."
     },
     {
         "question": "Je, kilimo mseto kina faida gani?",
-        "answer": "Kilimo mseto hutoa faida kama vile kuimarika kwa rutuba ya udongo, kuimarika kwa bayoanuwai, kuongezeka kwa uwezo wa kustahimili mabadiliko ya hali ya hewa, vyanzo mbalimbali vya mapato, na usimamizi bora wa maji. Inaunganisha miti na vichaka katika mifumo ya kilimo, kutoa huduma nyingi za mfumo wa ikolojia."
+        "answer": "Kilimo mseto hutoa manufaa kama vile kuimarika kwa rutuba ya udongo, kuimarika kwa bayoanuwai, kuongezeka kwa uwezo wa kustahimili mabadiliko ya hali ya hewa, vyanzo mbalimbali vya mapato, na usimamizi bora wa maji. Inaunganisha miti na vichaka katika mifumo ya kilimo, kutoa huduma nyingi za mfumo wa ikolojia."
     },
     {
         "question": "Je, ninawezaje kudhibiti chumvi kwenye udongo wangu?",
@@ -129,11 +129,11 @@
     },
     {
         "question": "Je, ninawezaje kuongeza ufanisi wa shughuli za shamba langu?",
-        "answer": "Kuongeza ufanisi wa kilimo kunahusisha kutumia teknolojia za kisasa za kilimo, kutekeleza kanuni bora za kilimo, kutunza kumbukumbu zinazofaa, kuboresha matumizi ya rasilimali (k.m., maji, mbolea), kufanya mazoezi ya kupanda na kuvuna kwa wakati, na kushiriki katika mafunzo na huduma za ugani ili kusasishwa na mbinu bora zaidi."
+        "answer": "Kuongeza ufanisi wa kilimo kunahusisha kutumia teknolojia za kisasa za kilimo, kutekeleza kanuni bora za kilimo, kutunza kumbukumbu sahihi, kuboresha matumizi ya rasilimali (k.m., maji, mbolea), kufanya mazoezi ya kupanda na kuvuna kwa wakati, na kushiriki katika mafunzo na huduma za ugani ili kusasishwa na mbinu bora."
     },
     {
         "question": "Je, ni mbinu gani bora za kupanda muhogo nchini Kenya?",
-        "answer": "Mbinu bora za kupanda muhogo ni pamoja na kuchagua aina zinazotoa mavuno mengi na zinazostahimili magonjwa, kupanda vipandikizi kwa pembe katika udongo uliotayarishwa vizuri, kuweka mbolea ya asili na isokaboni, kudhibiti magugu kwa kuweka matandazo na palizi kwa mikono, na kudhibiti wadudu na magonjwa kwa njia jumuishi ya kudhibiti wadudu. ."
+        "answer": "Mbinu bora za kulima muhogo ni pamoja na kuchagua aina zinazozaa sana na zinazostahimili magonjwa, kupanda vipandikizi kwa pembe katika udongo uliotayarishwa vizuri, kuweka mbolea ya asili na isokaboni, kudhibiti magugu kwa kuweka matandazo na palizi kwa mikono, na kudhibiti wadudu na magonjwa kwa njia ya usimamizi jumuishi wa wadudu. ."
     },
     {
         "question": "Je, ninawezaje kuboresha ubora wa mazao yangu?",
@@ -141,11 +141,11 @@
     },
     {
         "question": "Je, ni mbinu gani bora za kupanda maharagwe nchini Kenya?",
-        "answer": "Mbinu bora za kupanda maharagwe ni pamoja na kuchagua aina zinazozaa sana na zinazostahimili magonjwa, kupanda mwanzoni mwa msimu wa mvua, kwa kutumia nafasi sahihi (sentimita 30-50 kati ya safu na sm 10-20 kati ya mimea), kuweka mbolea inayofaa kulingana na udongo. vipimo, na kudhibiti wadudu na magonjwa kupitia udhibiti jumuishi wa wadudu."
+        "answer": "Mbinu bora za kupanda maharagwe ni pamoja na kuchagua aina zinazozaa sana na zinazostahimili magonjwa, kupanda mwanzoni mwa msimu wa mvua, kwa kutumia nafasi sahihi (sentimita 30-50 kati ya safu na sentimita 10-20 kati ya mimea), kuweka mbolea inayofaa kulingana na udongo. vipimo, na kudhibiti wadudu na magonjwa kupitia usimamizi jumuishi wa wadudu."
     },
     {
         "question": "Je, ninawezaje kuhakikisha kuwa kuna kilimo endelevu kwenye shamba langu?",
-        "answer": "Kuhakikisha kilimo endelevu kinahusisha kufuata kilimo hifadhi, kutumia pembejeo-hai, kufanya mazoezi ya mzunguko wa mazao na mseto, kutekeleza usimamizi bora wa maji, kupunguza pembejeo za kemikali, kuimarisha bioanuwai, na kukuza afya ya udongo kwa njia ndogo ya kulima na kufunika mazao."
+        "answer": "Kuhakikisha kilimo endelevu kinahusisha kufuata kilimo hifadhi, kutumia pembejeo-hai, kufanya mazoezi ya mzunguko wa mazao na mseto, kutekeleza usimamizi bora wa maji, kupunguza pembejeo za kemikali, kuimarisha bioanuwai, na kukuza afya ya udongo kwa kulima kidogo na kupanda mazao ya kufunika."
     },
     {
         "question": "Je, ni mbinu gani bora za kupanda viazi nchini Kenya?",
@@ -161,6 +161,6 @@
     },
     {
         "question": "Je, ninawezaje kuimarisha afya ya udongo kwenye shamba langu?",
-        "answer": "Kuimarisha afya ya udongo kunahusisha kuongeza viambata vya kikaboni (k.m., mboji, samadi), kufanya kilimo cha mzunguko wa mazao na kupanda kwa kufunika udongo, kupunguza usumbufu wa udongo kwa njia ya kulima kidogo, kuepuka kutegemea zaidi mbolea za kemikali, kutekeleza usimamizi jumuishi wa wadudu, na kudumisha bioanuwai ya udongo kupitia mifumo mbalimbali ya upanzi. ."
+        "answer": "Kuimarisha afya ya udongo kunahusisha kuongeza viambata vya kikaboni (k.m., mboji, samadi), kufanya kilimo cha mzunguko wa mazao na kupanda kwa kufunika udongo, kupunguza usumbufu wa udongo kupitia kulima kidogo, kuepuka kutegemea zaidi mbolea za kemikali, kutekeleza usimamizi jumuishi wa wadudu, na kudumisha bayoanuwai ya udongo kupitia mifumo mbalimbali ya upanzi. ."
     }
 ]

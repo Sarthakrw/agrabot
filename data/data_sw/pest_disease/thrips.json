@@ -21,23 +21,23 @@
     },
     {
         "question": "Je! ni baadhi ya mbinu za udhibiti wa kitamaduni za kudhibiti thrips?",
-        "answer": "Mbinu za udhibiti wa kitamaduni za kudhibiti thrips ni pamoja na kufanya usafi wa shambani kwa kuondoa na kuharibu uchafu wa mimea, kutumia matandazo ya kuakisi ili kufukuza vivimbe, na mazao ya kupokezana ili kuvunja mzunguko wa maisha ya wadudu. Zaidi ya hayo, kilimo mseto na mimea isiyo mwenyeji na kuhakikisha umwagiliaji ufaao kunaweza kupunguza idadi ya vithrips."
+        "answer": "Mbinu za udhibiti wa kitamaduni za kudhibiti thrips ni pamoja na kufanya usafi wa shambani kwa kuondoa na kuharibu uchafu wa mimea, kutumia matandazo ya kuakisi ili kufukuza vivimbe, na mazao ya kupokezana ili kuvunja mzunguko wa maisha ya wadudu. Zaidi ya hayo, kilimo mseto na mimea isiyo mwenyeji na kuhakikisha umwagiliaji ufaao kunaweza kupunguza idadi ya thrips."
     },
     {
         "question": "Je, kuna chaguzi za udhibiti wa kibayolojia kwa thrips?",
         "answer": "Ndiyo, chaguo za udhibiti wa kibayolojia kwa thrips ni pamoja na kuanzisha maadui asilia kama vile utitiri (k.m., Amblyseius spp.), kunguni wa maharamia (Orius spp.), na nyigu wa vimelea (k.m., Thripobius spp.). Wadudu hawa wa asili husaidia kudhibiti idadi ya thrips kwa kulisha mayai yao, mabuu na watu wazima."
     },
     {
-        "question": "Ni chaguzi gani za kudhibiti kemikali zinapatikana kwa thrips?",
+        "question": "Ni chaguzi gani za kudhibiti kemikali zinazopatikana kwa thrips?",
         "answer": "Chaguzi za udhibiti wa kemikali kwa thrips ni pamoja na matumizi ya viua wadudu kama vile spinosad, abamectin, na sabuni za kuua wadudu. Ni muhimu kuzunguka aina tofauti za wadudu ili kuzuia maendeleo ya upinzani. Fuata maagizo ya lebo na miongozo ya usalama kila wakati unapotumia matibabu ya kemikali."
     },
     {
         "question": "Ninawezaje kufuatilia idadi ya thrips katika mazao yangu?",
-        "answer": "Kufuatilia idadi ya thrips kunaweza kufanywa kwa kutumia mitego ya kunata iliyowekwa kwenye urefu wa mmea ili kunasa watu wazima wanaoruka. Kuchunguza mara kwa mara mimea, hasa chini ya majani na ndani ya maua, kwa ishara za thrips na uharibifu wao. Kufanya ukaguzi wa kila wiki kunaweza kusaidia kugundua mashambulio mapema na kutekeleza hatua za kudhibiti kwa wakati."
+        "answer": "Ufuatiliaji wa idadi ya thrips unaweza kufanywa kwa kutumia mitego ya kunata iliyowekwa kwenye urefu wa mmea ili kunasa watu wazima wanaoruka. Kuchunguza mara kwa mara mimea, hasa chini ya majani na ndani ya maua, kwa ishara za thrips na uharibifu wao. Kufanya ukaguzi wa kila wiki kunaweza kusaidia kugundua mashambulio mapema na kutekeleza hatua za kudhibiti kwa wakati."
     },
     {
         "question": "Je, thrips ina athari gani kwenye mazao ya mazao?",
-        "answer": "Thrips ina athari kubwa kwa mazao kwa kusababisha uharibifu wa moja kwa moja kupitia kulisha na kusambaza virusi vya mimea. Uharibifu wa malisho husababisha kupungua kwa uwezo wa usanisinuru, kudumaa kwa ukuaji, na matunda au maua yenye ulemavu, na hivyo kusababisha mazao ya chini ya soko. Usambazaji wa virusi unaweza kuzidisha upotevu wa mavuno na kuathiri ubora wa mazao."
+        "answer": "Thrips ina athari kubwa kwa mazao kwa kusababisha uharibifu wa moja kwa moja kupitia kulisha na kusambaza virusi vya mimea. Uharibifu wa malisho husababisha kupungua kwa uwezo wa usanisinuru, ukuaji kudumaa, na matunda au maua yenye ulemavu, na hivyo kusababisha mazao ya chini ya soko. Usambazaji wa virusi unaweza kuzidisha upotevu wa mavuno na kuathiri ubora wa mazao."
     },
     {
         "question": "Je, thrips huchangiaje kuenea kwa virusi vya mimea?",
@@ -45,15 +45,15 @@
     },
     {
         "question": "Je, ni madhara gani ya kimazingira ya kutumia viua wadudu dhidi ya thrips?",
-        "answer": "Matumizi ya viua wadudu dhidi ya thrips yanaweza kuwa na athari za kimazingira, ikiwa ni pamoja na madhara yanayoweza kutokea kwa viumbe visivyolengwa, kama vile wadudu wenye manufaa, wachavushaji na wanyama wanaowinda wanyama wengine. Viua wadudu vinaweza pia kuchangia katika ukuzaji wa ukinzani wa viua wadudu katika idadi ya vijidudu. Kwa hiyo, ni muhimu kutumia mikakati jumuishi ya udhibiti wa wadudu (IPM) ili kupunguza athari hizi."
+        "answer": "Matumizi ya viua wadudu dhidi ya thrips yanaweza kuwa na athari za kimazingira, ikiwa ni pamoja na madhara yanayoweza kutokea kwa viumbe visivyolengwa, kama vile wadudu wenye manufaa, wachavushaji na wanyama wanaowinda wanyama wengine. Dawa za kuua wadudu pia zinaweza kuchangia ukuaji wa ukinzani wa viua wadudu katika idadi ya vijidudu. Kwa hivyo, ni muhimu kutumia mikakati jumuishi ya udhibiti wa wadudu (IPM) ili kupunguza athari hizi."
     },
     {
         "question": "Je, kuna umuhimu gani wa usimamizi jumuishi wa wadudu (IPM) katika kudhibiti vithiwiti?",
-        "answer": "Usimamizi jumuishi wa wadudu (IPM) ni muhimu kwa kudhibiti vithiwiti kwani unachanganya mikakati mingi ya udhibiti ili kudhibiti ipasavyo idadi ya wadudu huku ikipunguza athari za kimazingira. IPM inajumuisha desturi za kitamaduni, udhibiti wa kibayolojia, udhibiti wa kemikali, na ufuatiliaji wa mara kwa mara. Mbinu hii ya jumla husaidia kuzuia maendeleo ya upinzani na kuhakikisha udhibiti endelevu wa wadudu."
+        "answer": "Usimamizi jumuishi wa wadudu (IPM) ni muhimu kwa kudhibiti vithiwiti kwani unachanganya mikakati mingi ya udhibiti ili kudhibiti ipasavyo idadi ya wadudu huku ikipunguza athari za kimazingira. IPM inajumuisha desturi za kitamaduni, udhibiti wa kibiolojia, udhibiti wa kemikali, na ufuatiliaji wa mara kwa mara. Mbinu hii ya jumla husaidia kuzuia maendeleo ya upinzani na kuhakikisha udhibiti endelevu wa wadudu."
     },
     {
         "question": "Je, maambukizi ya thrips yanaweza kudhibitiwa kwa kutumia njia za kikaboni?",
-        "answer": "Ndiyo, mashambulizi ya thrips yanaweza kudhibitiwa kwa kutumia mbinu za kikaboni. Hizi ni pamoja na matumizi ya sabuni za kuua wadudu, mafuta ya mwarobaini, na dondoo za mimea. Kuanzisha wanyama waharibifu wa asili na kufanya udhibiti mzuri wa kitamaduni, kama vile mzunguko wa mazao na usafi wa shambani, pia ni mbinu bora za kikaboni za kudhibiti idadi ya thrips."
+        "answer": "Ndiyo, maambukizi ya thrips yanaweza kudhibitiwa kwa kutumia mbinu za kikaboni. Hizi ni pamoja na matumizi ya sabuni za kuua wadudu, mafuta ya mwarobaini, na dondoo za mimea. Kuanzisha wanyama waharibifu wa asili na kufanya udhibiti mzuri wa kitamaduni, kama vile mzunguko wa mazao na usafi wa shambani, pia ni mbinu bora za kikaboni za kudhibiti idadi ya thrips."
     },
     {
         "question": "Je, usafi wa mazingira una nafasi gani katika kudhibiti maambukizi ya thrips?",

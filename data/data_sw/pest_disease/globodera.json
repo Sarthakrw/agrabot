@@ -1,15 +1,15 @@
 [
     {
         "question": "Globodera rostochiensis, pia inajulikana kama nematode ya dhahabu ni nini?",
-        "answer": "Globodera rostochiensis, inayojulikana kama nematode ya dhahabu, ni nematode ya vimelea ya mimea ambayo hushambulia mizizi ya mimea ya viazi. Mdudu huyu hutengeneza uvimbe unaoweza kudumu kwenye udongo kwa miaka mingi, na hivyo kufanya kuwa changamoto kubwa kwa wakulima wa viazi kutokana na upotevu wa mavuno anaoweza kusababisha."
+        "answer": "Globodera rostochiensis, inayojulikana kama nematode ya dhahabu, ni nematode ya vimelea ya mimea ambayo hushambulia mizizi ya mimea ya viazi. Mdudu huyu huunda vivimbe ambavyo vinaweza kudumu kwenye udongo kwa miaka mingi, na hivyo kufanya kuwa changamoto kubwa kwa wakulima wa viazi kutokana na hasara ya mavuno anayoweza kusababisha."
     },
     {
         "question": "Globodera pallida, pia inajulikana kama nematode ya cyst iliyopauka ni nini?",
         "answer": "Globodera pallida, pia inajulikana kama nematode ya cyst iliyofifia, ni nematode ya vimelea ya mmea sawa na Globodera rostochiensis. Hushambulia mizizi ya viazi, na hivyo kusababisha kudumaa kwa ukuaji na kupungua kwa mavuno. Nematodi ya cyst iliyopauka ni changamoto kuu kudhibiti kwa sababu ya ustahimilivu wake na muda mrefu wa kuishi kwenye udongo."
     },
     {
-        "question": "Je, ninawezaje kugundua shambulio la Globodera rostochiensis/nematodi ya dhahabu kwenye mashamba yangu ya viazi?",
-        "answer": "Kugundua mashambulizi ya Globodera rostochiensis, nematode ya dhahabu, huhusisha kuchunguza dalili kama vile kudumaa kwa ukuaji na njano ya majani. Mimea iliyoathiriwa inaweza kunyauka siku za joto na kuonyesha ukuaji duni wa kiazi. Kuchimba mimea kunaweza kufichua vijivimbe vidogo kwenye mizizi, ambavyo mwanzoni huwa vyeupe na kugeuka hudhurungi baada ya muda."
+        "question": "Ninawezaje kugundua shambulio la Globodera rostochiensis/nematodi ya dhahabu kwenye mashamba yangu ya viazi?",
+        "answer": "Kugundua mashambulizi ya Globodera rostochiensis, nematode ya dhahabu, huhusisha kuchunguza dalili kama vile kudumaa kwa ukuaji na njano ya majani. Mimea iliyoathiriwa inaweza kunyauka siku za joto na kuonyesha ukuaji duni wa kiazi. Kuchimba mimea kunaweza kufichua vivimbe vidogo kwenye mizizi, ambavyo mwanzoni huwa vyeupe na kugeuka hudhurungi baada ya muda."
     },
     {
         "question": "Je, Globodera pallida/nematode ya cyst iliyopauka hueneaje katika maeneo ya kilimo?",
@@ -21,11 +21,11 @@
     },
     {
         "question": "Je! ni dalili gani za Globodera pallida/uvamizi wa nematodi wa cyst kwenye viazi?",
-        "answer": "Dalili za Globodera pallida, ugonjwa wa nematode ya cyst iliyopauka, hujumuisha ukuaji kudumaa, majani kuwa ya manjano, na mimea inayonyauka wakati wa joto. Mimea ya viazi iliyoshambuliwa mara nyingi huwa na ukuaji duni wa mizizi na kupunguza mavuno. Kuchunguza mizizi inaweza kufunua cysts ndogo, pande zote, kuonyesha uwepo wa nematode."
+        "answer": "Dalili za Globodera pallida, ugonjwa wa nematode cyst iliyopauka, ni pamoja na kudumaa kwa majani, majani kuwa ya manjano na mimea inayonyauka wakati wa joto. Mimea ya viazi iliyoshambuliwa mara nyingi huwa na ukuaji duni wa mizizi na kupunguza mavuno. Kuchunguza mizizi inaweza kufunua cysts ndogo, pande zote, kuonyesha uwepo wa nematode."
     },
     {
         "question": "Je, ninawezaje kudhibiti Globodera rostochiensis/nematodi ya dhahabu katika mazao yangu ya viazi?",
-        "answer": "Kusimamia Globodera rostochiensis, nematode ya dhahabu, inahusisha kutekeleza mzunguko wa mazao na mimea isiyo mwenyeji kama nafaka ili kupunguza idadi ya nematode. Kutumia aina za viazi sugu, inapopatikana, na kufanya usafi wa mazingira kwa kusafisha vifaa na kuzuia kusongesha kwa udongo pia ni mikakati madhubuti."
+        "answer": "Kusimamia Globodera rostochiensis, nematode ya dhahabu, inahusisha kutekeleza mzunguko wa mazao na mimea isiyo mwenyeji kama nafaka ili kupunguza idadi ya nematode. Kutumia aina za viazi zinazostahimili, inapopatikana, na kufanya mazoezi ya usafi wa mazingira kwa kusafisha vifaa na kuzuia harakati za udongo pia ni mikakati madhubuti."
     },
     {
         "question": "Je, kuna aina za viazi zinazostahimili Globodera pallida/nematode ya cyst iliyopauka?",
@@ -37,11 +37,11 @@
     },
     {
         "question": "Je, ni hatua zipi za kuweka karantini kwa Globodera pallida/nematode ya cyst iliyopauka?",
-        "answer": "Hatua za karantini kwa Globodera pallida, nematode ya cyst iliyopauka, ni pamoja na kuzuia kusogea kwa udongo na vifaa kutoka kwa maeneo yaliyoathirika. Kukagua na kuthibitisha mashamba ya viazi na viazi mbegu kuwa hayana nematode ni hatua muhimu za kuzuia kuenea kwa wadudu hao katika maeneo mapya."
+        "answer": "Hatua za karantini kwa Globodera pallida, nematode ya cyst iliyopauka, ni pamoja na kuzuia kusogea kwa udongo na vifaa kutoka kwa maeneo yaliyoathirika. Kukagua na kuthibitisha mashamba ya viazi na mbegu ya viazi kuwa hayana nematode ni hatua muhimu za kuzuia kuenea kwa wadudu hao katika maeneo mapya."
     },
     {
-        "question": "Je, hali ya hewa huathiri vipi Globodera rostochiensis/nematode ya dhahabu?",
-        "answer": "Hali ya hewa huathiri kwa kiasi kikubwa mienendo ya idadi ya watu wa Globodera rostochiensis, nematode ya dhahabu. Viwango vya joto na unyevu wa kutosha wa udongo vinaweza kuongeza viwango vya uzazi na kuishi, wakati hali mbaya kama vile ukame au baridi ya muda mrefu inaweza kupunguza shughuli zao na uwezo wao wa kuishi."
+        "question": "Je, hali ya hewa huathiri vipi Globodera rostochiensis/nematodi ya dhahabu?",
+        "answer": "Hali ya hewa huathiri kwa kiasi kikubwa mienendo ya idadi ya watu wa Globodera rostochiensis, nematode ya dhahabu. Viwango vya joto na unyevu wa kutosha wa udongo vinaweza kuongeza viwango vya kuzaliana na kuishi, wakati hali mbaya kama vile ukame au baridi ya muda mrefu inaweza kupunguza shughuli zao na uwezekano."
     },
     {
         "question": "Je, ni mbinu gani za udhibiti wa kibayolojia zinazofaa dhidi ya Globodera pallida/nematode ya cyst iliyopauka?",

@@ -1,7 +1,7 @@
 [
     {
         "question": "Bemisia tabaci ni nini, pia anajulikana kama nzi weupe wa tumbaku au nzi weupe wa viazi vitamu?",
-        "answer": "Bemisia tabaci, ambaye kwa kawaida hujulikana kama whitefly wa tumbaku au whitefly viazi vitamu, ni wadudu wadogo ambao huathiri mimea mbalimbali ya nyumbani, ikiwa ni pamoja na mazao kama pamba, maharagwe ya soya, mihogo, matango, mbilingani, pilipili, nyanya, na mimea mbalimbali ya mapambo. . Nzi weupe waliokomaa wana urefu wa milimita moja hivi wakiwa na miili ya manjano hafifu na mabawa meupe. Wanajulikana kwa uwezo wao wa kusambaza virusi vingi vya mimea na kusababisha uharibifu mkubwa kwa mazao kupitia shughuli zao za kulisha."
+        "answer": "Bemisia tabaci, ambaye kwa kawaida hujulikana kama whitefly wa tumbaku au whitefly viazi vitamu, ni mdudu mdogo ambaye huathiri mimea mbalimbali ya nyumbani, ikiwa ni pamoja na mazao kama pamba, maharagwe ya soya, mihogo, matango, mbilingani, pilipili, nyanya na mimea mbalimbali ya mapambo. . Nzi weupe waliokomaa wana urefu wa milimita moja hivi wakiwa na miili ya manjano hafifu na mabawa meupe. Wanajulikana kwa uwezo wao wa kusambaza virusi vingi vya mimea na kusababisha uharibifu mkubwa kwa mazao kupitia shughuli zao za kulisha."
     },
     {
         "question": "Je, ninawezaje kutambua Bemisia tabaci, inzi weupe wa tumbaku au nzi wa viazi vitamu, kwenye mimea yangu?",
@@ -13,18 +13,18 @@
     },
     {
         "question": "Je, mzunguko wa maisha wa Bemisia tabaci, pia unajulikana kama nzi weupe wa tumbaku au nzi weupe wa viazi vitamu ni upi?",
-        "answer": "Mzunguko wa maisha wa Bemisia tabaci, ambao hujulikana kama nzi weupe wa tumbaku au nzi weupe wa viazi vitamu, hujumuisha hatua kadhaa: mayai, nymphs na watu wazima. Nzi weupe jike hutaga mayai madogo yenye umbo la mviringo kwenye upande wa chini wa majani. Mayai haya huanguliwa na kuwa nyufa wa kwanza wanaohama, ambao husogea hadi mahali pazuri pa kulisha na kuwa tuli kwa hatua zilizobaki za nymphal. Ukuaji kutoka kwa yai hadi mtu mzima huchukua siku 30-40, kulingana na hali ya joto. Inzi weupe waliokomaa huendeleza mzunguko huo kwa kulisha, kupandana na kutaga mayai."
+        "answer": "Mzunguko wa maisha wa Bemisia tabaci, anayejulikana sana kama nzi weupe wa tumbaku au nzi weupe wa viazi vitamu, hujumuisha hatua kadhaa: mayai, nymphs na watu wazima. Nzi weupe jike hutaga mayai madogo yenye umbo la mviringo kwenye upande wa chini wa majani. Mayai haya huanguliwa na kuwa nyufa wa kwanza wanaotembea, ambao husogea hadi mahali pazuri pa kulishia na kuwa tuli kwa hatua zilizosalia za nymphal. Ukuaji kutoka kwa yai hadi mtu mzima huchukua siku 30-40, kulingana na hali ya joto. Inzi weupe waliokomaa huendeleza mzunguko huo kwa kulisha, kupandana na kutaga mayai."
     },
     {
         "question": "Je, Bemisia tabaci, nzi weupe wa tumbaku au nzi weupe wa viazi vitamu, hueneaje?",
         "answer": "Bemisia tabaci, anayejulikana kama whitefly wa tumbaku au whitefly viazi vitamu, huenea kupitia njia mbalimbali ikiwa ni pamoja na harakati za mimea iliyoathiriwa, upepo, na shughuli za binadamu. Ijapokuwa inzi weupe si vipeperushi vikali, wanaweza kusafirishwa kwa umbali mrefu na upepo. Nyenzo za upanzi zilizoshambuliwa, maua yaliyokatwa, na shughuli zinazosimamiwa na binadamu kama vile biashara na usafirishaji wa mazao ya kilimo pia zinaweza kuchangia kuenea kwa wadudu hawa."
     },
     {
-        "question": "Ni mimea gani iliyoathiriwa zaidi na Bemisia tabaci, anayejulikana pia kama nzi weupe wa tumbaku au nzi wa viazi vitamu?",
-        "answer": "Bemisia tabaci, anayejulikana sana kama nzi weupe wa tumbaku au nzi weupe wa viazi vitamu, ana aina nyingi sana, na huathiri zaidi ya mimea 900 mwenyeji. Mazao makubwa yaliyoathiriwa ni pamoja na pamba, maharagwe ya soya, mihogo, matango, mbilingani, pilipili, nyanya, viazi vitamu na mimea mbalimbali ya mapambo kama vile poinsettia na hibiscus. Aina mbalimbali za wadudu walioathirika zinaendelea kupanuka, na hivyo kusababisha tishio kubwa kwa uzalishaji wa kilimo."
+        "question": "Ni mazao gani yanayoathiriwa zaidi na Bemisia tabaci, anayejulikana pia kama nzi weupe wa tumbaku au nzi wa viazi vitamu?",
+        "answer": "Bemisia tabaci, anayejulikana sana kama nzi weupe wa tumbaku au nzi weupe wa viazi vitamu, ana aina nyingi sana, na huathiri zaidi ya mimea 900 mwenyeji. Mazao makubwa yaliyoathiriwa ni pamoja na pamba, soya, mihogo, matango, mbilingani, pilipili, nyanya, viazi vitamu na mimea mbalimbali ya mapambo kama vile poinsettia na hibiscus. Mimea iliyoathiriwa na wadudu inazidi kupanuka, na hivyo kusababisha tishio kubwa kwa uzalishaji wa kilimo."
     },
     {
-        "question": "Je, ni nini athari za kiuchumi za mashambulizi ya Bemisia tabaci (inzi weupe wa tumbaku/sweet potato whitefly)?",
+        "question": "Je, ni nini athari za kiuchumi za uvamizi wa Bemisia tabaci (inzi weupe wa tumbaku/sweet potato whitefly)?",
         "answer": "Mashambulizi ya Bemisia tabaci, wanaojulikana kama nzi weupe wa tumbaku au nzi wa viazi vitamu, wanaweza kusababisha hasara kubwa ya kiuchumi kutokana na uharibifu wa malisho wa moja kwa moja, maambukizi ya virusi vya mimea, na ukuaji unaohusiana na ukungu wa masizi kutokana na kinyesi cha asali. Hasara ya mavuno inaweza kuanzia 20% hadi 100%, haswa wakati virusi vinavyoenezwa na nzi weupe vinahusika. Madhara ya wadudu kwenye mazao ya shambani na ya chafu yanaweza kusababisha kupungua kwa soko na kuongezeka kwa gharama za uzalishaji kutokana na hitaji la hatua za kudhibiti wadudu."
     },
     {
@@ -40,12 +40,12 @@
         "answer": "Chaguzi za udhibiti wa kemikali za kudhibiti Bemisia tabaci, pia hujulikana kama nzi weupe wa tumbaku au nzi weupe wa viazi vitamu, ni pamoja na kutumia viua wadudu kama vile neonicotinoids, vidhibiti ukuaji wa wadudu na pyrethroids. Hata hivyo, ni muhimu kuzungusha aina mbalimbali za viua wadudu ili kuzuia ukuaji wa upinzani. Fuata maagizo ya lebo na miongozo ya usalama kila wakati unapotumia matibabu ya kemikali ili kuhakikisha udhibiti mzuri na salama wa wadudu."
     },
     {
-        "question": "Je, ninawezaje kudhibiti uvamizi wa Bemisia tabaci (inzi weupe wa tumbaku/nzi weupe wa viazi vitamu) katika chafu yangu?",
+        "question": "Je, ninawezaje kudhibiti uvamizi wa Bemisia tabaci (inzi weupe wa tumbaku/inzi weupe wa viazi vitamu) katika nyumba yangu ya kuhifadhia mazingira?",
         "answer": "Kudhibiti mashambulio ya tabaci ya Bemisia, wanaojulikana kama nzi weupe wa tumbaku au nzi wa viazi vitamu, katika nyumba za kuhifadhi mazingira kunahusisha kutekeleza mikakati jumuishi ya kudhibiti wadudu (IPM). Hizi ni pamoja na kutumia skrini zisizo na wadudu, kudumisha hali ya usafi ifaayo kwa kuondoa uchafu na magugu ya mimea, kuanzisha maadui wa asili, kufuatilia idadi ya inzi weupe na mitego yenye kunata, na kutumia dawa za kuua wadudu inapohitajika. Ukaguzi wa mara kwa mara wa mimea na matumizi ya matandazo ya kiakisi pia yanaweza kusaidia kuwafukuza nzi weupe na kudhibiti mashambulizi kwa ufanisi."
     },
     {
         "question": "Je, virusi vina jukumu gani katika mashambulizi ya Bemisia tabaci (inzi weupe wa tumbaku/nzi weupe wa viazi vitamu)?",
-        "answer": "Bemisia tabaci, pia anajulikana kama whitefly wa tumbaku au whitefly viazi vitamu, ni vekta kwa zaidi ya 100 virusi vya mimea, hasa katika genera Begomovirus, Crinivirus, na Carlavirus. Virusi hivi vinaweza kusababisha magonjwa makubwa katika mazao, na hivyo kusababisha dalili kama vile njano, kujikunja kwa majani, kudumaa, na hasara kubwa ya mavuno. Kuenezwa kwa virusi hivi na inzi weupe kwa kiasi kikubwa huongeza athari za kiuchumi za mashambulio na kuleta changamoto kubwa kwa ulinzi wa mazao."
+        "answer": "Bemisia tabaci, pia anajulikana kama whitefly wa tumbaku au whitefly viazi vitamu, ni vekta kwa zaidi ya 100 virusi vya mimea, hasa katika genera Begomovirus, Crinivirus, na Carlavirus. Virusi hivi vinaweza kusababisha magonjwa makali katika mazao, hivyo kusababisha dalili kama vile njano, kujikunja kwa majani, kudumaa, na hasara kubwa ya mavuno. Kuenezwa kwa virusi hivi na inzi weupe kwa kiasi kikubwa huongeza athari za kiuchumi za mashambulio na kuleta changamoto kubwa kwa ulinzi wa mazao."
     },
     {
         "question": "Je, Bemisia tabaci (nyuzi weupe wa tumbaku/sweet potato whitefly) huathirije ubora wa mazao?",

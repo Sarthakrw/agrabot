@@ -1,159 +1,158 @@
 [
   {
     "question": "What is the expected weather/temperature in Lodwar this week, hottest and coldest, min/max?",
-    "answer": "For the week of 23 to 29 July 2024, the expected temperature in Lodwar ranges from a minimum of 23.0°C to a maximum of 36.0°C."
+    "answer": "For the week of 6 to 12 August 2024, Lodwar can expect a maximum temperature of 37.0\u00b0C and a minimum temperature of 24.0\u00b0C."
   },
   {
     "question": "What is the expected weather/temperature in Marsabit this week, hottest and coldest, min/max?",
-    "answer": "For the week of 23 to 29 July 2024, the expected temperature in Marsabit ranges from a minimum of 15.0°C to a maximum of 26.0°C."
+    "answer": "For the week of 6 to 12 August 2024, Marsabit can expect a maximum temperature of 29.0\u00b0C and a minimum temperature of 15.0\u00b0C."
   },
   {
     "question": "What is the expected weather/temperature in Moyale this week, hottest and coldest, min/max?",
-    "answer": "For the week of 23 to 29 July 2024, the expected temperature in Moyale ranges from a minimum of 18.0°C to a maximum of 27.0°C."
+    "answer": "For the week of 6 to 12 August 2024, Moyale can expect a maximum temperature of 30.0\u00b0C and a minimum temperature of 17.0\u00b0C."
   },
   {
     "question": "What is the expected weather/temperature in Garissa this week, hottest and coldest, min/max?",
-    "answer": "For the week of 23 to 29 July 2024, the expected temperature in Garissa ranges from a minimum of 22.0°C to a maximum of 34.0°C."
+    "answer": "For the week of 6 to 12 August 2024, Garissa can expect a maximum temperature of 34.0\u00b0C and a minimum temperature of 22.0\u00b0C."
   },
   {
     "question": "What is the expected weather/temperature in Wajir this week, hottest and coldest, min/max?",
-    "answer": "For the week of 23 to 29 July 2024, the expected temperature in Wajir ranges from a minimum of 22.0°C to a maximum of 35.0°C."
+    "answer": "For the week of 6 to 12 August 2024, Wajir can expect a maximum temperature of 35.0\u00b0C and a minimum temperature of 20.0\u00b0C."
   },
   {
     "question": "What is the expected weather/temperature in Mandera this week, hottest and coldest, min/max?",
-    "answer": "For the week of 23 to 29 July 2024, the expected temperature in Mandera ranges from a minimum of 24.0°C to a maximum of 35.0°C."
+    "answer": "For the week of 6 to 12 August 2024, Mandera can expect a maximum temperature of 37.0\u00b0C and a minimum temperature of 23.0\u00b0C."
   },
   {
     "question": "What is the expected weather/temperature in Kitale this week, hottest and coldest, min/max?",
-    "answer": "For the week of 23 to 29 July 2024, the expected temperature in Kitale ranges from a minimum of 14.0°C to a maximum of 25.0°C."
+    "answer": "For the week of 6 to 12 August 2024, Kitale can expect a maximum temperature of 27.0\u00b0C and a minimum temperature of 13.0\u00b0C."
   },
   {
     "question": "What is the expected weather/temperature in Kakamega this week, hottest and coldest, min/max?",
-    "answer": "For the week of 23 to 29 July 2024, the expected temperature in Kakamega ranges from a minimum of 16.0°C to a maximum of 28.0°C."
+    "answer": "For the week of 6 to 12 August 2024, Kakamega can expect a maximum temperature of 29.0\u00b0C and a minimum temperature of 16.0\u00b0C."
   },
   {
     "question": "What is the expected weather/temperature in Eldoret this week, hottest and coldest, min/max?",
-    "answer": "For the week of 23 to 29 July 2024, the expected temperature in Eldoret ranges from a minimum of 13.0°C to a maximum of 24.0°C."
+    "answer": "For the week of 6 to 12 August 2024, Eldoret can expect a maximum temperature of 25.0\u00b0C and a minimum temperature of 10.0\u00b0C."
   },
   {
     "question": "What is the expected weather/temperature in Kericho this week, hottest and coldest, min/max?",
-    "answer": "For the week of 23 to 29 July 2024, the expected temperature in Kericho ranges from a minimum of 10.0°C to a maximum of 24.0°C."
+    "answer": "For the week of 6 to 12 August 2024, Kericho can expect a maximum temperature of 25.0\u00b0C and a minimum temperature of 10.0\u00b0C."
   },
   {
     "question": "What is the expected weather/temperature in Kisii this week, hottest and coldest, min/max?",
-    "answer": "For the week of 23 to 29 July 2024, the expected temperature in Kisii ranges from a minimum of 16.0°C to a maximum of 27.0°C."
+    "answer": "For the week of 6 to 12 August 2024, Kisii can expect a maximum temperature of 28.0\u00b0C and a minimum temperature of 14.0\u00b0C."
   },
   {
     "question": "What is the expected weather/temperature in Kisumu this week, hottest and coldest, min/max?",
-    "answer": "For the week of 23 to 29 July 2024, the expected temperature in Kisumu ranges from a minimum of 17.0°C to a maximum of 29.0°C."
+    "answer": "For the week of 6 to 12 August 2024, Kisumu can expect a maximum temperature of 30.0\u00b0C and a minimum temperature of 18.0\u00b0C."
   },
   {
     "question": "What is the expected weather/temperature in Suba this week, hottest and coldest, min/max?",
-    "answer": "For the week of 23 to 29 July 2024, the expected temperature in Suba ranges from a minimum of 20.0°C to a maximum of 30.0°C."
+    "answer": "For the week of 6 to 12 August 2024, Suba can expect a maximum temperature of 29.0\u00b0C and a minimum temperature of 20.0\u00b0C."
   },
   {
     "question": "What is the expected weather/temperature in Nakuru this week, hottest and coldest, min/max?",
-    "answer": "For the week of 23 to 29 July 2024, the expected temperature in Nakuru ranges from a minimum of 14.0°C to a maximum of 26.0°C."
+    "answer": "For the week of 6 to 12 August 2024, Nakuru can expect a maximum temperature of 27.0\u00b0C and a minimum temperature of 13.0\u00b0C."
   },
   {
     "question": "What is the expected weather/temperature in Narok this week, hottest and coldest, min/max?",
-    "answer": "For the week of 23 to 29 July 2024, the expected temperature in Narok ranges from a minimum of 12.0°C to a maximum of 24.0°C."
+    "answer": "For the week of 6 to 12 August 2024, Narok can expect a maximum temperature of 25.0\u00b0C and a minimum temperature of 8.0\u00b0C."
   },
   {
     "question": "What is the expected weather/temperature in Nyahururu this week, hottest and coldest, min/max?",
-    "answer": "For the week of 23 to 29 July 2024, the expected temperature in Nyahururu ranges from a minimum of 11.0°C to a maximum of 22.0°C."
+    "answer": "For the week of 6 to 12 August 2024, Nyahururu can expect a maximum temperature of 22.0\u00b0C and a minimum temperature of 6.0\u00b0C."
   },
   {
     "question": "What is the expected weather/temperature in Kangema this week, hottest and coldest, min/max?",
-    "answer": "For the week of 23 to 29 July 2024, the expected temperature in Kangema ranges from a minimum of 13.0°C to a maximum of 23.0°C."
+    "answer": "For the week of 6 to 12 August 2024, Kangema can expect a maximum temperature of 21.0\u00b0C and a minimum temperature of 13.0\u00b0C."
   },
   {
     "question": "What is the expected weather/temperature in Nyeri this week, hottest and coldest, min/max?",
-    "answer": "For the week of 23 to 29 July 2024, the expected temperature in Nyeri ranges from a minimum of 13.0°C to a maximum of 25.0°C."
+    "answer": "For the week of 6 to 12 August 2024, Nyeri can expect a maximum temperature of 25.0\u00b0C and a minimum temperature of 12.0\u00b0C."
   },
   {
     "question": "What is the expected weather/temperature in Embu this week, hottest and coldest, min/max?",
-    "answer": "For the week of 23 to 29 July 2024, the expected temperature in Embu ranges from a minimum of 14.0°C to a maximum of 24.0°C."
+    "answer": "For the week of 6 to 12 August 2024, Embu can expect a maximum temperature of 25.0\u00b0C and a minimum temperature of 13.0\u00b0C."
   },
   {
     "question": "What is the expected weather/temperature in Meru this week, hottest and coldest, min/max?",
-    "answer": "For the week of 23 to 29 July 2024, the expected temperature in Meru ranges from a minimum of 14.0°C to a maximum of 24.0°C."
+    "answer": "For the week of 6 to 12 August 2024, Meru can expect a maximum temperature of 24.0\u00b0C and a minimum temperature of 11.0\u00b0C."
   },
   {
     "question": "What is the expected weather/temperature in Laikipia this week, hottest and coldest, min/max?",
-    "answer": "For the week of 23 to 29 July 2024, the expected temperature in Laikipia ranges from a minimum of 11.0°C to a maximum of 26.0°C."
+    "answer": "For the week of 6 to 12 August 2024, Laikipia can expect a maximum temperature of 25.0\u00b0C and a minimum temperature of 9.0\u00b0C."
   },
   {
     "question": "What is the expected weather/temperature in Nairobi this week, hottest and coldest, min/max?",
-    "answer": "For the week of 23 to 29 July 2024, the expected temperature in Nairobi ranges from a minimum of 11.0°C to a maximum of 25.0°C."
+    "answer": "For the week of 6 to 12 August 2024, Nairobi can expect a maximum temperature of 27.0\u00b0C and a minimum temperature of 10.0\u00b0C."
   },
   {
     "question": "What is the expected weather/temperature in Thika this week, hottest and coldest, min/max?",
-    "answer": "For the week of 23 to 29 July 2024, the expected temperature in Thika ranges from a minimum of 13.0°C to a maximum of 26.0°C."
+    "answer": "For the week of 6 to 12 August 2024, Thika can expect a maximum temperature of 28.0\u00b0C and a minimum temperature of 12.0\u00b0C."
   },
   {
     "question": "What is the expected weather/temperature in Ngong this week, hottest and coldest, min/max?",
-    "answer": "For the week of 23 to 29 July 2024, the expected temperature in Ngong ranges from a minimum of 11.0°C to a maximum of 23.0°C."
+    "answer": "For the week of 6 to 12 August 2024, Ngong can expect a maximum temperature of 25.0\u00b0C and a minimum temperature of 10.0\u00b0C."
   },
   {
     "question": "What is the expected weather/temperature in Machakos this week, hottest and coldest, min/max?",
-    "answer": "For the week of 23 to 29 July 2024, the expected temperature in Machakos ranges from a minimum of 10.0°C to a maximum of 24.0°C."
+    "answer": "For the week of 6 to 12 August 2024, Machakos can expect a maximum temperature of 26.0\u00b0C and a minimum temperature of 9.0\u00b0C."
   },
   {
     "question": "What is the expected weather/temperature in Makindu this week, hottest and coldest, min/max?",
-    "answer": "For the week of 23 to 29 July 2024, the expected temperature in Makindu ranges from a minimum of 15.0°C to a maximum of 29.0°C."
+    "answer": "For the week of 6 to 12 August 2024, Makindu can expect a maximum temperature of 30.0\u00b0C and a minimum temperature of 14.0\u00b0C."
   },
   {
     "question": "What is the expected weather/temperature in Kitui this week, hottest and coldest, min/max?",
-    "answer": "For the week of 23 to 29 July 2024, the expected temperature in Kitui ranges from a minimum of 14.0°C to a maximum of 28.0°C."
+    "answer": "For the week of 6 to 12 August 2024, Kitui can expect a maximum temperature of 28.0\u00b0C and a minimum temperature of 12.0\u00b0C."
   },
   {
     "question": "What is the expected weather/temperature in Voi this week, hottest and coldest, min/max?",
-    "answer": "For the week of 23 to 29 July 2024, the expected temperature in Voi ranges from a minimum of 18.0°C to a maximum of 31.0°C."
+    "answer": "For the week of 6 to 12 August 2024, Voi can expect a maximum temperature of 32.0\u00b0C and a minimum temperature of 18.0\u00b0C."
   },
   {
     "question": "What is the expected weather/temperature in Lamu this week, hottest and coldest, min/max?",
-    "answer": "For the week of 23 to 29 July 2024, the expected temperature in Lamu ranges from a minimum of 24.0°C to a maximum of 30.0°C."
+    "answer": "For the week of 6 to 12 August 2024, Lamu can expect a maximum temperature of 30.0\u00b0C and a minimum temperature of 23.0\u00b0C."
   },
   {
     "question": "What is the expected weather/temperature in Malindi this week, hottest and coldest, min/max?",
-    "answer": "For the week of 23 to 29 July 2024, the expected temperature in Malindi ranges from a minimum of 24.0°C to a maximum of 29.0°C."
+    "answer": "For the week of 6 to 12 August 2024, Malindi can expect a maximum temperature of 29.0\u00b0C and a minimum temperature of 24.0\u00b0C."
   },
   {
     "question": "What is the expected weather/temperature in Msabaha this week, hottest and coldest, min/max?",
-    "answer": "For the week of 23 to 29 July 2024, the expected temperature in Msabaha ranges from a minimum of 24.0°C to a maximum of 29.0°C."
+    "answer": "For the week of 6 to 12 August 2024, Msabaha can expect a maximum temperature of 29.0\u00b0C and a minimum temperature of 24.0\u00b0C."
   },
   {
     "question": "What is the expected weather/temperature in Mtwapa this week, hottest and coldest, min/max?",
-    "answer": "For the week of 23 to 29 July 2024, the expected temperature in Mtwapa ranges from a minimum of 21.0°C to a maximum of 30.0°C."
+    "answer": "For the week of 6 to 12 August 2024, Mtwapa can expect a maximum temperature of 30.0\u00b0C and a minimum temperature of 23.0\u00b0C."
   },
   {
     "question": "What is the expected weather/temperature in Mombasa this week, hottest and coldest, min/max?",
-    "answer": "For the week of 23 to 29 July 2024, the expected temperature in Mombasa ranges from a minimum of 21.0°C to a maximum of 30.0°C."
+    "answer": "For the week of 6 to 12 August 2024, Mombasa can expect a maximum temperature of 30.0\u00b0C and a minimum temperature of 21.0\u00b0C."
   },
-
   {
     "question": "What is the rainfall forecast for The Highlands West of the Rift Valley, the Lake Victoria Basin and the Rift Valley (Kisii, Nyamira, Nandi, Kericho, Bomet, Kakamega, Vihiga, Bungoma, Siaya, Kisumu, Homabay, Busia, Migori, Narok, Baringo, Nakuru, Trans-Nzoia, Uasin-Gishu, Elgeyo-Marakwet, West-Pokot, Siaya, Kisumu, Homabay, Busia and Migori Counties) this week?",
-    "answer": "For the week of 23 to 29 July 2024, The Highlands West of the Rift Valley, the Lake Victoria Basin and the Rift Valley (Kisii, Nyamira, Nandi, Kericho, Bomet, Kakamega, Vihiga, Bungoma, Siaya, Kisumu, Homabay, Busia, Migori, Narok, Baringo, Nakuru, Trans-Nzoia, Uasin-Gishu, Elgeyo-Marakwet, West-Pokot, Siaya, Kisumu, Homabay, Busia and Migori Counties) can expect morning rains over few places. Afternoon and night showers and thunderstorms are expected over few places, occasionally spreading to several places."
+    "answer": "For the week of 6 to 12 August 2024, The Highlands West of the Rift Valley, the Lake Victoria Basin and the Rift Valley (Kisii, Nyamira, Nandi, Kericho, Bomet, Kakamega, Vihiga, Bungoma, Siaya, Kisumu, Homabay, Busia, Migori, Narok, Baringo, Nakuru, Trans-Nzoia, Uasin-Gishu, Elgeyo-Marakwet, West-Pokot, Siaya, Kisumu, Homabay, Busia and Migori Counties) can expect morning rains as well as afternoon and night showers and thunderstorms over few places."
   },
   {
     "question": "What is the rainfall forecast for North-western Kenya (Turkana and Samburu Counties) this week?",
-    "answer": "For the week of 23 to 29 July 2024, North-western Kenya (Turkana and Samburu Counties) can expect morning rains as well as afternoon and night showers and thunderstorms over few places."
+    "answer": "For the week of 6 to 12 August 2024, North-western Kenya (Turkana and Samburu Counties) can expect morning rains as well as afternoon and night showers and thunderstorms over few places occasionally spreading to several places during the first half of the forecast period."
   },
   {
     "question": "What is the rainfall forecast for The Highlands East of the Rift Valley (including Nairobi County) (Nyandarua, Laikipia, Nyeri, Kirinyaga, Murang'a, Kiambu, Meru, Embu, Tharaka-Nithi and Nairobi Counties) this week?",
-    "answer": "For the week of 23 to 29 July 2024, The Highlands East of the Rift Valley (including Nairobi County) (Nyandarua, Laikipia, Nyeri, Kirinyaga, Murang'a, Kiambu, Meru, Embu, Tharaka-Nithi and Nairobi Counties) can expect intermittent cloudiness with light rains over few places in the mornings, giving way to sunny intervals. Afternoon and night showers are expected over few (mostly high-ground) areas."
+    "answer": "For the week of 6 to 12 August 2024, The Highlands East of the Rift Valley (including Nairobi County) (Nyandarua, Laikipia, Nyeri, Kirinyaga, Murang'a, Kiambu, Meru, Embu, Tharaka-Nithi and Nairobi Counties) can expect intermittent cloudiness, with light rains over few places, is expected in the mornings giving way to sunny intervals. Afternoon and night showers are expected over few (mostly high-ground) areas."
   },
   {
     "question": "What is the rainfall forecast for North-eastern Kenya (Marsabit, Mandera, Wajir, Garissa and Isiolo Counties) this week?",
-    "answer": "For the week of 23 to 29 July 2024, North-eastern Kenya (Marsabit, Mandera, Wajir, Garissa and Isiolo Counties) can expect sunny intervals during the day and partly cloudy nights. However, morning rains may occur over some parts of Marsabit County."
+    "answer": "For the week of 6 to 12 August 2024, North-eastern Kenya (Marsabit, Mandera, Wajir, Garissa and Isiolo Counties) can expect sunny intervals during the day while nights are likely to be partly cloudy. However, morning rains as well as afternoon and night showers may occur over some parts of Marsabit County during the first half of the forecast period."
   },
   {
     "question": "What is the rainfall forecast for The South-eastern lowlands (Machakos, Kitui, Makueni, Kajiado and Taita-Taveta Counties) this week?",
-    "answer": "For the week of 23 to 29 July 2024, The South-eastern lowlands (Machakos, Kitui, Makueni, Kajiado and Taita-Taveta Counties) can expect occasional cloudiness in the morning, giving way to sunny intervals. Nights are likely to be partly cloudy."
+    "answer": "For the week of 6 to 12 August 2024, The South-eastern lowlands (Machakos, Kitui, Makueni, Kajiado and Taita-Taveta Counties) can expect occasional cloudiness in the morning giving way to sunny intervals. Nights are likely to be partly cloudy."
   },
   {
     "question": "What is the rainfall forecast for The Coast (Mombasa, Tana-River, Kilifi, Lamu and Kwale Counties) this week?",
-    "answer": "For the week of 23 to 29 July 2024, The Coast (Mombasa, Tana-River, Kilifi, Lamu and Kwale Counties) can expect sunny intervals during the day and partly cloudy nights. There is a possibility of light morning and afternoon showers occurring over few places during the first half of the forecast period."
+    "answer": "For the week of 6 to 12 August 2024, The Coast (Mombasa, Tana-River, Kilifi, Lamu and Kwale Counties) can expect morning and afternoon showers over few places occasionally spreading to several places. Nights are likely to be partly cloudy."
   }
 ]

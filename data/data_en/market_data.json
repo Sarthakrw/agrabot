@@ -200,6 +200,10 @@
         "answer": "The retail price of Green Grams (Makueni) in Gikomba is 180.00 KSh per kilogram. wholesale price is not available. Supply volume information is not available. Location: Nairobi. Date: 2024-08-08.\n"
     },
     {
+        "question": "What are the current retail and wholesale prices for ground nuts in Katito, and what is the supply volume available?",
+        "answer": "The retail price of Ground Nuts (Large Brown) in Katito is 250.00 KSh per kilogram. The wholesale price is 133.33 KSh per kilogram. The supply volume is 1500.00 kilograms. Location: Kisumu. Date: 2024-08-08.\n"
+    },
+    {
         "question": "What are the current retail and wholesale prices for ground nuts in Kitale Municipality Market, and what is the supply volume available?",
         "answer": "The retail price of Ground Nuts (Small Red) in Kitale Municipality Market is 250.00 KSh per kilogram. The wholesale price is 240.00 KSh per kilogram. The supply volume is 2000.00 kilograms. Location: Trans-Nzoia. Date: 2024-08-08.\n"
     },
@@ -234,10 +238,6 @@
     {
         "question": "What are the current retail and wholesale prices for ground nuts in Isebania Market, and what is the supply volume available?",
         "answer": "The retail price of Ground Nuts (Large Brown) in Isebania Market is 200.00 KSh per kilogram. wholesale price is not available. The supply volume is 2500.00 kilograms. Location: Migori. Date: 2024-08-07.\n"
-    },
-    {
-        "question": "What are the current retail and wholesale prices for ground nuts in Gikomba, and what is the supply volume available?",
-        "answer": "The retail price of Ground Nuts (Large Brown) in Gikomba is 240.00 KSh per kilogram. wholesale price is not available. Supply volume information is not available. Location: Nairobi. Date: 2024-08-07.\n"
     },
     {
         "question": "What are the current retail and wholesale prices for beans red haricot (wairimu) in Aram, and what is the supply volume available?",
@@ -840,6 +840,10 @@
         "answer": "The retail price of Beans (Canadian wonder) in Chuka is 200.00 KSh per kilogram. The wholesale price is 155.56 KSh per kilogram. The supply volume is 540.00 kilograms. Location: Tharaka-Nithi. Date: 2024-07-30.\n"
     },
     {
+        "question": "What are the current retail and wholesale prices for tilapia in Katito, and what is the supply volume available?",
+        "answer": "The retail price of Tilapia (Fresh) in Katito is 450.00 KSh per kilogram. The wholesale price is 320.00 KSh per kilogram. The supply volume is 2500.00 kilograms. Location: Kisumu. Date: 2024-08-08.\n"
+    },
+    {
         "question": "What are the current retail and wholesale prices for tilapia in Aram, and what is the supply volume available?",
         "answer": "The retail price of Tilapia (Fried) in Aram is 750.00 KSh per kilogram. wholesale price is not available. The supply volume is 60.00 kilograms. Location: Siaya. Date: 2024-08-08.\n"
     },
@@ -874,10 +878,6 @@
     {
         "question": "What are the current retail and wholesale prices for tilapia in Aram, and what is the supply volume available?",
         "answer": "The retail price of Tilapia (Fried) in Aram is 650.00 KSh per kilogram. wholesale price is not available. The supply volume is 42.00 kilograms. Location: Siaya. Date: 2024-08-05.\n"
-    },
-    {
-        "question": "What are the current retail and wholesale prices for tilapia in Aram, and what is the supply volume available?",
-        "answer": "The retail price of Tilapia (Fresh) in Aram is 450.00 KSh per kilogram. wholesale price is not available. The supply volume is 55.00 kilograms. Location: Siaya. Date: 2024-08-05.\n"
     },
     {
         "question": "What are the current retail and wholesale prices for goat milk (at collection point) in Kabiyet Market, and what is the supply volume available?",

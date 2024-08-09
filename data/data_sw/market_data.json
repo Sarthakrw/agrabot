@@ -8,12 +8,12 @@
         "answer": "Bei ya rejareja ya Mahindi Makavu (Mahindi Nyeupe) katika Soko la Manispaa ya Kitale ni KSh 40.00 kwa kilo. Bei ya jumla ni 35.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 2000.00. Mahali: Trans-Nzoia. Tarehe: 2024-08-08."
     },
     {
-        "question": "Je, bei za sasa za rejareja na jumla za mahindi makavu ni zipi kwa sasa huko Katito, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, bei ya sasa ya rejareja na jumla ya mahindi makavu ni kiasi gani kwa Katito, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Mahindi Kavu (Mahindi Nyeupe) huko Katito ni KSh 50.00 kwa kilo. Bei ya jumla ni 45.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 4500.00. Mahali: Kisumu. Tarehe: 2024-08-08."
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za mahindi makavu huko Aram, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya reja reja ya Mahindi Kavu (Mahindi Nyeupe) kwa Aram ni KSh 41.53 kwa kilo. Bei ya jumla ni 36.67 KSh kwa kilo. Kiasi cha usambazaji ni kilo 5400.00. Mahali: Siaya. Tarehe: 2024-08-08."
+        "answer": "Bei ya reja reja ya Mahindi Makavu (Mahindi Nyeupe) kwa Aram ni KSh 41.53 kwa kilo. Bei ya jumla ni 36.67 KSh kwa kilo. Kiasi cha usambazaji ni kilo 5400.00. Mahali: Siaya. Tarehe: 2024-08-08."
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za mahindi makavu huko Aram, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -33,14 +33,14 @@
     },
     {
         "question": "Je, bei za sasa za rejareja na jumla za mahindi makavu ni zipi huko Kerugoya, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya reja reja ya Mahindi Makavu (Mahindi Nyeupe) huko Kerugoya ni KSh 55.00 kwa kilo. Bei ya jumla ni 35.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 4500.00. Mahali: Kirinyaga. Tarehe: 2024-08-08."
+        "answer": "Bei ya reja reja ya Mahindi Kavu (Mahindi Nyeupe) huko Kerugoya ni KSh 55.00 kwa kilo. Bei ya jumla ni 35.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 4500.00. Mahali: Kirinyaga. Tarehe: 2024-08-08."
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za mahindi makavu katika Soko la Mogogosiek, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Mahindi Kavu (Mahindi Nyeupe) katika Soko la Mogogosiek ni KSh 48.00 kwa kilo. Bei ya jumla ni 40.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 180.00. Mahali: Bomet. Tarehe: 2024-08-08."
     },
     {
-        "question": "Je, bei za sasa za rejareja na jumla za mtama nyekundu katika Soko la Manispaa ya Kitale ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani ya sasa ya rejareja na jumla ya mtama nyekundu katika Soko la Manispaa ya Kitale, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Mtama Mwekundu katika Soko la Manispaa ya Kitale ni KSh 125.00 kwa kilo. Bei ya jumla ni 100.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 300.00. Mahali: Trans-Nzoia. Tarehe: 2024-08-08."
     },
     {
@@ -52,7 +52,7 @@
         "answer": "Bei ya reja reja ya Mtama Mwekundu katika Aram ni KSh 46.32 kwa kilo. Bei ya jumla ni 37.05 KSh kwa kilo. Kiasi cha usambazaji ni kilo 1800.00. Mahali: Siaya. Tarehe: 2024-08-08."
     },
     {
-        "question": "Je, bei za sasa za reja reja na jumla za mtama nyekundu huko Mabera ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, bei ya sasa ya rejareja na jumla ya mtama mwekundu ni kiasi gani huko Mabera, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Mtama Mwekundu huko Mabera ni KSh 86.96 kwa kilo. Bei ya jumla ni 65.22 KSh kwa kilo. Kiasi cha usambazaji ni kilo 2400.00. Mahali: Migori. Tarehe: 2024-08-08."
     },
     {
@@ -124,7 +124,7 @@
         "answer": "Bei ya reja reja ya Mchele (IRR) huko Katito ni KSh 150.00 kwa kilo. Bei ya jumla ni 125.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 5300.00. Mahali: Kisumu. Tarehe: 2024-08-08."
     },
     {
-        "question": "Je, bei za sasa za reja reja na jumla za mchele huko Aram ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, bei za sasa za rejareja na jumla za mchele huko Aram ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya rejareja ya Mchele (Pishori) nchini Aram ni KSh 116.28 kwa kilo. Bei ya jumla ni 78.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 6500.00. Mahali: Siaya. Tarehe: 2024-08-08."
     },
     {
@@ -161,7 +161,7 @@
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za gramu za kijani katika Soko la Manispaa ya Kitale, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya rejareja ya Gramu za Kijani (Mseto/iliyosafishwa) katika Soko la Manispaa ya Kitale ni KSh 160.00 kwa kilo. Bei ya jumla ni 140.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 1200.00. Mahali: Trans-Nzoia. Tarehe: 2024-08-08."
+        "answer": "Bei ya rejareja ya Gram za Kijani (Mseto/iliyosafishwa) katika Soko la Manispaa ya Kitale ni KSh 160.00 kwa kilo. Bei ya jumla ni 140.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 1200.00. Mahali: Trans-Nzoia. Tarehe: 2024-08-08."
     },
     {
         "question": "Je, bei za sasa za rejareja na jumla za gramu za kijani nchini Aram ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -200,6 +200,10 @@
         "answer": "Bei ya rejareja ya Green Grams (Makueni) huko Gikomba ni KSh 180.00 kwa kilo. bei ya jumla haipatikani. Taarifa ya kiasi cha usambazaji haipatikani. Mahali: Nairobi. Tarehe: 2024-08-08."
     },
     {
+        "question": "Je, ni bei gani za sasa za rejareja na jumla za karanga zilizosagwa huko Katito, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "answer": "Bei ya reja reja ya Ground Nuts (Large Brown) huko Katito ni 250.00 KSh kwa kilo. Bei ya jumla ni 133.33 KSh kwa kilo. Kiasi cha usambazaji ni kilo 1500.00. Mahali: Kisumu. Tarehe: 2024-08-08."
+    },
+    {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za karanga katika Soko la Manispaa ya Kitale, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya rejareja ya Ground Nuts (Nyekundu Ndogo) katika Soko la Manispaa ya Kitale ni 250.00 KSh kwa kilo. Bei ya jumla ni 240.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 2000.00. Mahali: Trans-Nzoia. Tarehe: 2024-08-08."
     },
@@ -236,12 +240,8 @@
         "answer": "Bei ya rejareja ya Ground Nuts (Large Brown) katika Soko la Isebania ni KSh 200.00 kwa kilo. bei ya jumla haipatikani. Kiasi cha usambazaji ni kilo 2500.00. Mahali: Migori. Tarehe: 2024-08-07."
     },
     {
-        "question": "Je, ni bei gani za sasa za rejareja na jumla za karanga huko Gikomba, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya rejareja ya Ground Nuts (Large Brown) huko Gikomba ni KSh 240.00 kwa kilo. bei ya jumla haipatikani. Taarifa ya kiasi cha usambazaji haipatikani. Mahali: Nairobi. Tarehe: 2024-08-07."
-    },
-    {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za maharagwe nyekundu ya haricot (wairimu) huko Aram, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya reja reja ya Beans Red Haricot (Wairimu) nchini Aram ni KSh 127.74 kwa kilo. Bei ya jumla ni 109.49 KSh kwa kilo. Kiasi cha usambazaji ni kilo 200.00. Mahali: Siaya. Tarehe: 2024-08-08."
+        "answer": "Bei ya reja reja ya Beans Red Haricot (Wairimu) huko Aram ni KSh 127.74 kwa kilo. Bei ya jumla ni 109.49 KSh kwa kilo. Kiasi cha usambazaji ni kilo 200.00. Mahali: Siaya. Tarehe: 2024-08-08."
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za maharagwe nyekundu ya haricot (wairimu) huko Kutus, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -252,7 +252,7 @@
         "answer": "Bei ya reja reja ya Beans Red Haricot (Wairimu) huko Kerugoya ni KSh 170.00 kwa kilo. Bei ya jumla ni 144.44 KSh kwa kilo. Kiasi cha usambazaji ni kilo 2500.00. Mahali: Kirinyaga. Tarehe: 2024-08-08."
     },
     {
-        "question": "Je, ni bei gani za sasa za reja reja na jumla za maharagwe nyekundu ya haricot (wairimu) huko Gikomba, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani za sasa za rejareja na jumla za maharagwe nyekundu ya haricot (wairimu) huko Gikomba, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Beans Red Haricot (Wairimu) huko Gikomba ni KSh 150.00 kwa kilo. Bei ya jumla ni 88.89 KSh kwa kilo. Taarifa ya kiasi cha usambazaji haipatikani. Mahali: Nairobi. Tarehe: 2024-08-08."
     },
     {
@@ -268,11 +268,11 @@
         "answer": "Bei ya reja reja ya Beans Red Haricot (Wairimu) katika Soko la Isebania ni KSh 120.00 kwa kilo. bei ya jumla haipatikani. Kiasi cha usambazaji ni kilo 3600.00. Mahali: Migori. Tarehe: 2024-08-07."
     },
     {
-        "question": "Je, ni bei gani za sasa za reja reja na jumla za maharagwe nyekundu ya haricot (wairimu) huko Mulot, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani za sasa za rejareja na jumla za maharagwe nyekundu ya haricot (wairimu) huko Mulot, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Beans Red Haricot (Wairimu) huko Mulot ni KSh 75.00 kwa kilo. Bei ya jumla ni 66.67 KSh kwa kilo. Kiasi cha usambazaji ni kilo 800.00. Mahali: Bomet. Tarehe: 2024-08-07."
     },
     {
-        "question": "Je, ni bei gani za sasa za reja reja na jumla za maharagwe nyekundu ya haricot (wairimu) huko Gikomba, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani za sasa za rejareja na jumla za maharagwe nyekundu ya haricot (wairimu) huko Gikomba, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Beans Red Haricot (Wairimu) huko Gikomba ni KSh 150.00 kwa kilo. bei ya jumla haipatikani. Taarifa ya kiasi cha usambazaji haipatikani. Mahali: Nairobi. Tarehe: 2024-08-07."
     },
     {
@@ -288,7 +288,7 @@
         "answer": "Bei ya rejareja ya Maharage (Njano-Kijani) nchini Aram ni KSh 165.44 kwa kilo. Bei ya jumla ni 147.06 KSh kwa kilo. Kiasi cha usambazaji ni kilo 450.00. Mahali: Siaya. Tarehe: 2024-08-08."
     },
     {
-        "question": "Je, ni bei gani za sasa za rejareja na jumla za maharagwe (njano-kijani) huko Mabera, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je! ni bei gani za sasa za rejareja na jumla za maharagwe (njano-kijani) huko Mabera, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya rejareja ya Maharage (Njano-Kijani) huko Mabera ni KSh 166.67 kwa kilo. Bei ya jumla ni 125.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 4000.00. Mahali: Migori. Tarehe: 2024-08-08."
     },
     {
@@ -301,7 +301,7 @@
     },
     {
         "question": "Je! ni bei gani za sasa za rejareja na jumla za maharagwe (njano-kijani) huko Gikomba, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya rejareja ya Maharage (Njano-Kijani) huko Gikomba ni KSh 200.00 kwa kilo. Bei ya jumla ni 133.33 KSh kwa kilo. Taarifa ya kiasi cha usambazaji haipatikani. Mahali: Nairobi. Tarehe: 2024-08-08."
+        "answer": "Bei ya reja reja ya Maharage (Njano-Kijani) huko Gikomba ni KSh 200.00 kwa kilo. Bei ya jumla ni 133.33 KSh kwa kilo. Taarifa ya kiasi cha usambazaji haipatikani. Mahali: Nairobi. Tarehe: 2024-08-08."
     },
     {
         "question": "Je, bei za sasa za reja reja na jumla za maharagwe (njano-kijani) katika Mji wa Mwingi ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -341,7 +341,7 @@
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za dolichos lablab (njahi) huko Kathonzweni, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya rejareja ya Dolichos lablab (Njahi) huko Kathonzweni ni KSh 80.00 kwa kilo. Bei ya jumla ni 50.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 200.00. Mahali: Makueni. Tarehe: 2024-08-06."
+        "answer": "Bei ya reja reja ya Dolichos lablab (Njahi) huko Kathonzweni ni KSh 80.00 kwa kilo. Bei ya jumla ni 50.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 200.00. Mahali: Makueni. Tarehe: 2024-08-06."
     },
     {
         "question": "Je, ni bei gani za sasa za reja reja na jumla za dolichos lablab (njahi) huko Kerugoya, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -381,7 +381,7 @@
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za mtama wa lulu huko Maua, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya reja reja ya Pearl Rush Millet huko Maua ni KSh 60.00 kwa kilo. Bei ya jumla ni 45.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 4000.00. Mahali: Meru. Tarehe: 2024-08-06."
+        "answer": "Bei ya rejareja ya Pearl Rush Millet huko Maua ni KSh 60.00 kwa kilo. Bei ya jumla ni 45.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 4000.00. Mahali: Meru. Tarehe: 2024-08-06."
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za mtama katika Soko la Kabiyet, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -429,7 +429,7 @@
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za mtama katika Soko la Kiria-ini, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya rejareja ya Finger Millet katika Soko la Kiria-ini ni KSh 125.00 kwa kilo. Bei ya jumla ni 125.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 900.00. Mahali: Muranga. Tarehe: 2024-08-07."
+        "answer": "Bei ya reja reja ya Finger Millet katika Soko la Kiria-ini ni KSh 125.00 kwa kilo. Bei ya jumla ni 125.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 900.00. Mahali: Muranga. Tarehe: 2024-08-07."
     },
     {
         "question": "Je, bei za sasa za rejareja na jumla za mawele huko Gikomba ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -464,7 +464,7 @@
         "answer": "Bei ya reja reja ya Mtama Mweupe huko Kalundu ni KSh 90.00/kg kwa kilo. Bei ya jumla ni 80.00/kg KSh kwa kilo. Taarifa ya kiasi cha usambazaji haipatikani. Mahali: Kitui. Tarehe: 2024-08-05."
     },
     {
-        "question": "Je, bei ya sasa ya reja reja na jumla ya mtama mweupe huko Cheptulu ni ngapi, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, bei ya sasa ya rejareja na jumla ya mtama mweupe huko Cheptulu ni ngapi, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Mtama Mweupe huko Cheptulu ni KSh 100.00/kg kwa kilo. Bei ya jumla ni 90.00/kg KSh kwa kilo. Kiasi cha usambazaji ni kilo 600.00. Mahali: Vihiga. Tarehe: 2024-08-02."
     },
     {
@@ -492,7 +492,7 @@
         "answer": "Bei ya rejareja ya viazi vya Red Irish katika Soko la Mogogosiek ni KSh 60.00 kwa kilo. Bei ya jumla ni 50.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 600.00. Mahali: Bomet. Tarehe: 2024-08-08."
     },
     {
-        "question": "Je, ni bei gani za sasa za rejareja na jumla za viazi nyekundu vya irish huko Mulot, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani za sasa za rejareja na jumla za viazi nyekundu za irish huko Mulot, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya rejareja ya viazi vya Red Irish mjini Mulot ni KSh 80.00 kwa kilo. Bei ya jumla ni 58.33 KSh kwa kilo. Kiasi cha usambazaji ni kilo 800.00. Mahali: Bomet. Tarehe: 2024-08-07."
     },
     {
@@ -568,7 +568,7 @@
         "answer": "Bei ya reja reja ya Viazi vitamu nchini Aram ni KSh 40.03 kwa kilo. bei ya jumla haipatikani. Kiasi cha usambazaji ni kilo 4500.00. Mahali: Siaya. Tarehe: 2024-08-08."
     },
     {
-        "question": "Je, ni bei gani za sasa za rejareja na jumla za viazi vitamu huko Kerugoya, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani za sasa za rejareja na jumla za viazi vitamu Kerugoya, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Viazi vitamu huko Kerugoya ni KSh 80.00 kwa kilo. Bei ya jumla ni 40.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 200.00. Mahali: Kirinyaga. Tarehe: 2024-08-08."
     },
     {
@@ -632,7 +632,7 @@
         "answer": "Bei ya reja reja ya Karoti huko Kerugoya ni KSh 50.00 kwa kilo. Bei ya jumla ni 20.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 400.00. Mahali: Kirinyaga. Tarehe: 2024-08-08."
     },
     {
-        "question": "Je, ni bei gani za sasa za reja reja na jumla za karoti huko Gikomba, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani za sasa za rejareja na jumla za karoti huko Gikomba, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Karoti huko Gikomba ni KSh 100.00 kwa kilo. bei ya jumla haipatikani. Taarifa ya kiasi cha usambazaji haipatikani. Mahali: Nairobi. Tarehe: 2024-08-08."
     },
     {
@@ -688,8 +688,8 @@
         "answer": "Bei ya reja reja ya Beans Rosecoco huko Mabera ni KSh 152.17 kwa kilo. Bei ya jumla ni 108.70 KSh kwa kilo. Kiasi cha usambazaji ni kilo 1400.00. Mahali: Migori. Tarehe: 2024-08-08."
     },
     {
-        "question": "Je! ni bei gani za sasa za rejareja na jumla za maharagwe rosecoco katika Soko la Mogogosiek, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya rejareja ya Maharage Rosecoco katika Soko la Mogogosiek ni KSh 200.00 kwa kilo. Bei ya jumla ni 175.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 90.00. Mahali: Bomet. Tarehe: 2024-08-08."
+        "question": "Je! ni bei gani za sasa za rejareja na jumla za maharagwe ya rosecoco katika Soko la Mogogosiek, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "answer": "Bei ya reja reja ya Maharage Rosecoco katika Soko la Mogogosiek ni KSh 200.00 kwa kilo. Bei ya jumla ni 175.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 90.00. Mahali: Bomet. Tarehe: 2024-08-08."
     },
     {
         "question": "Je! ni bei gani za sasa za rejareja na jumla za maharagwe ya rosecoco huko Kerugoya, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -765,7 +765,7 @@
     },
     {
         "question": "Je, ni bei gani za sasa za reja reja na jumla za maharagwe (mwezi moja) katika Aram, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya rejareja ya Maharage (Mwezi Moja) nchini Aram ni KSh 136.72 kwa kilo. Bei ya jumla ni 117.19 KSh kwa kilo. Kiasi cha usambazaji ni kilo 200.00. Mahali: Siaya. Tarehe: 2024-08-08."
+        "answer": "Bei ya reja reja ya Maharage (Mwezi Moja) nchini Aram ni KSh 136.72 kwa kilo. Bei ya jumla ni 117.19 KSh kwa kilo. Kiasi cha usambazaji ni kilo 200.00. Mahali: Siaya. Tarehe: 2024-08-08."
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za maharagwe (mwezi moja) katika Soko la Mogogosiek, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -804,7 +804,7 @@
         "answer": "Bei ya rejareja ya Maharage (Ajabu ya Kanada) nchini Aram ni KSh 126.81 kwa kilo. Bei ya jumla ni 108.70 KSh kwa kilo. Kiasi cha usambazaji ni kilo 150.00. Mahali: Siaya. Tarehe: 2024-08-08."
     },
     {
-        "question": "Je! ni bei gani za sasa za rejareja na jumla za maharagwe (maajabu ya Kanada) huko Bondo, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani za sasa za rejareja na jumla za maharagwe (maajabu ya Kanada) huko Bondo, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Maharage (maajabu ya Kanada) huko Bondo ni KSh 200.00 kwa kilo. Bei ya jumla ni 166.67 KSh kwa kilo. Kiasi cha usambazaji ni kilo 7000.00. Mahali: Siaya. Tarehe: 2024-08-06."
     },
     {
@@ -825,10 +825,10 @@
     },
     {
         "question": "Je, ni bei gani za sasa za reja reja na jumla za maharagwe (maajabu ya Kanada) huko Mumias, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya rejareja ya Maharage (maajabu ya Kanada) mjini Mumias ni 195.00 KSh kwa kilo. Bei ya jumla ni 106.67 KSh kwa kilo. Kiasi cha usambazaji ni kilo 1400.00. Mahali: Kakamega. Tarehe: 2024-08-02."
+        "answer": "Bei ya rejareja ya Maharage (Canadian wonder) huko Mumias ni 195.00 KSh kwa kilo. Bei ya jumla ni 106.67 KSh kwa kilo. Kiasi cha usambazaji ni kilo 1400.00. Mahali: Kakamega. Tarehe: 2024-08-02."
     },
     {
-        "question": "Je, ni bei gani za sasa za rejareja na jumla za maharagwe (maajabu ya Kanada) huko Chuka, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je! ni bei gani za sasa za rejareja na jumla za maharagwe (maajabu ya Canada) huko Chuka, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya rejareja ya Maharage (Ajabu ya Kanada) huko Chuka ni KSh 100.00 kwa kilo. Bei ya jumla ni 66.67 KSh kwa kilo. Kiasi cha usambazaji ni kilo 540.00. Mahali: Tharaka-Nithi. Tarehe: 2024-08-02."
     },
     {
@@ -836,8 +836,12 @@
         "answer": "Bei ya rejareja ya Maharage (Ajabu ya Kanada) huko Awendo ni KSh 181.82 kwa kilo. Bei ya jumla ni 133.33 KSh kwa kilo. Taarifa ya kiasi cha usambazaji haipatikani. Mahali: Migori. Tarehe: 2024-07-31."
     },
     {
-        "question": "Je! ni bei gani za sasa za rejareja na jumla za maharagwe (maajabu ya Canada) huko Chuka, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani za sasa za rejareja na jumla za maharagwe (maajabu ya Kanada) huko Chuka, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Maharage (Canadian wonder) huko Chuka ni KSh 200.00 kwa kilo. Bei ya jumla ni 155.56 KSh kwa kilo. Kiasi cha usambazaji ni kilo 540.00. Mahali: Tharaka-Nithi. Tarehe: 2024-07-30."
+    },
+    {
+        "question": "Je, ni bei gani za sasa za reja reja na jumla za tilapia huko Katito, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "answer": "Bei ya reja reja ya Tilapia (Fresh) huko Katito ni KSh 450.00 kwa kilo. Bei ya jumla ni 320.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 2500.00. Mahali: Kisumu. Tarehe: 2024-08-08."
     },
     {
         "question": "Je, ni bei gani za sasa za reja reja na jumla za tilapia nchini Aram, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -874,10 +878,6 @@
     {
         "question": "Je, ni bei gani za sasa za reja reja na jumla za tilapia nchini Aram, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Tilapia (Ilikaangwa) kwa Aram ni KSh 650.00 kwa kilo. bei ya jumla haipatikani. Kiasi cha usambazaji ni kilo 42.00. Mahali: Siaya. Tarehe: 2024-08-05."
-    },
-    {
-        "question": "Je, ni bei gani za sasa za reja reja na jumla za tilapia nchini Aram, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya reja reja ya Tilapia (Fresh) kwa Aram ni KSh 450.00 kwa kilo. bei ya jumla haipatikani. Kiasi cha usambazaji ni kilo 55.00. Mahali: Siaya. Tarehe: 2024-08-05."
     },
     {
         "question": "Je, ni bei gani ya sasa ya rejareja na jumla ya maziwa ya mbuzi (mahali pa kukusanyia) katika Soko la Kabiyet, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -1156,7 +1156,7 @@
         "answer": "Bei ya reja reja ya Omena (Imekaushwa) huko Bondo ni KSh 600.00 kwa kilo. Bei ya jumla ni 500.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 4000.00. Mahali: Siaya. Tarehe: 2024-08-06."
     },
     {
-        "question": "Je, ni bei gani za sasa za rejareja na jumla za omena huko Ahero, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je! ni bei gani za sasa za rejareja na jumla za omena huko Ahero, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Omena (Imekaushwa) katika Ahero ni KSh 800.00 kwa kilo. Bei ya jumla ni 700.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 6000.00. Mahali: Kisumu. Tarehe: 2024-08-06."
     },
     {
@@ -1301,7 +1301,7 @@
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za carp ya kawaida huko Cheptiret - Uasin Gishu, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya rejareja ya Common Carp (Fresh) huko Cheptiret - Uasin Gishu ni 400.00/kg KSh kwa kilo. Bei ya jumla ni 300.00/kg KSh kwa kilo. Kiasi cha usambazaji ni kilo 100.00. Mahali: Uasin-Gishu. Tarehe: 2022-06-27."
+        "answer": "Bei ya reja reja ya Common Carp (Fresh) katika Cheptiret - Uasin Gishu ni 400.00/kg KSh kwa kilo. Bei ya jumla ni 300.00/kg KSh kwa kilo. Kiasi cha usambazaji ni kilo 100.00. Mahali: Uasin-Gishu. Tarehe: 2022-06-27."
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za carp ya kawaida katika soko la majaribio, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -1445,7 +1445,7 @@
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za mormyrus huko Aram, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya rejareja ya Mormyrus (Fresh) nchini Aram ni KSh 350.00 kwa kilo. bei ya jumla haipatikani. Kiasi cha usambazaji ni kilo 50.00. Mahali: Siaya. Tarehe: 2024-08-05."
+        "answer": "Bei ya rejareja ya Mormyrus (Fresh) katika Aram ni 350.00 KSh kwa kilo. bei ya jumla haipatikani. Kiasi cha usambazaji ni kilo 50.00. Mahali: Siaya. Tarehe: 2024-08-05."
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za mormyrus huko Akala, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -1457,7 +1457,7 @@
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za mormyrus huko Aram, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya rejareja ya Mormyrus (Fresh) nchini Aram ni KSh 350.00 kwa kilo. bei ya jumla haipatikani. Kiasi cha usambazaji ni kilo 55.00. Mahali: Siaya. Tarehe: 2024-07-29."
+        "answer": "Bei ya rejareja ya Mormyrus (Fresh) katika Aram ni 350.00 KSh kwa kilo. bei ya jumla haipatikani. Kiasi cha usambazaji ni kilo 55.00. Mahali: Siaya. Tarehe: 2024-07-29."
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za mormyrus huko Akala, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -1469,11 +1469,11 @@
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za mormyrus huko Aram, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya rejareja ya Mormyrus (Fresh) nchini Aram ni KSh 350.00 kwa kilo. bei ya jumla haipatikani. Kiasi cha usambazaji ni kilo 55.00. Mahali: Siaya. Tarehe: 2024-07-22."
+        "answer": "Bei ya rejareja ya Mormyrus (Fresh) katika Aram ni 350.00 KSh kwa kilo. bei ya jumla haipatikani. Kiasi cha usambazaji ni kilo 55.00. Mahali: Siaya. Tarehe: 2024-07-22."
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za mormyrus huko Akala, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya reja reja ya Mormyrus (Fresh) huko Akala ni KSh 133.33 kwa kilo. Bei ya jumla ni 100.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 280.00. Mahali: Siaya. Tarehe: 2024-07-20."
+        "answer": "Bei ya rejareja ya Mormyrus (Fresh) huko Akala ni KSh 133.33 kwa kilo. Bei ya jumla ni 100.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 280.00. Mahali: Siaya. Tarehe: 2024-07-20."
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za mormyrus huko Aram, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -1565,7 +1565,7 @@
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za alestes huko Marindi, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya reja reja ya Alestes (Imekaushwa) huko Marindi ni KSh 1020.41 kwa kilo. bei ya jumla haipatikani. Kiasi cha usambazaji ni kilo 240.00. Mahali: Migori. Tarehe: 2024-07-02."
+        "answer": "Bei ya rejareja ya Alestes (Imekaushwa) huko Marindi ni KSh 1020.41 kwa kilo. bei ya jumla haipatikani. Kiasi cha usambazaji ni kilo 240.00. Mahali: Migori. Tarehe: 2024-07-02."
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za alestes huko Marindi, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -1624,7 +1624,7 @@
         "answer": "Bei ya reja reja ya Maji Mengine Safi (Safi) huko Bondo ni KSh 300.00 kwa kilo. Bei ya jumla ni 200.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 500.00. Mahali: Siaya. Tarehe: 2024-07-16."
     },
     {
-        "question": "Je, ni bei gani za sasa za reja reja na jumla kwa maji mengine matamu huko Kamukuywa, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, bei za sasa za reja reja na jumla kwa maji mengine safi huko Kamukuywa ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Maji Mengine Safi (ya Kuvuta) huko Kamukuywa ni KSh 233.33 kwa kilo. Bei ya jumla ni 200.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 3000.00. Mahali: Bungoma. Tarehe: 2024-06-23."
     },
     {
@@ -2029,7 +2029,7 @@
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za samaki aina ya swordfish katika Soko la Samaki la Old port, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya reja reja ya Swordfishes (Fresh) katika Soko la Samaki la Old port ni 600.00s KSh kwa kilo. Bei ya jumla ni 450.00s KSh kwa kilo. Kiasi cha usambazaji ni kilo 145.00. Mahali: Mombasa. Tarehe: 2023-04-12."
+        "answer": "Bei ya rejareja ya Swordfishes (Fresh) katika Soko la Samaki la Old port ni 600.00s KSh kwa kilo. Bei ya jumla ni 450.00s KSh kwa kilo. Kiasi cha usambazaji ni kilo 145.00. Mahali: Mombasa. Tarehe: 2023-04-12."
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za samaki wa upanga huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -2112,15 +2112,15 @@
         "answer": "Bei ya reja reja ya Kamba (Safi) mjini Vanga ni KSh 230.00 kwa kilo. Bei ya jumla ni 200.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 18.00. Mahali: Kwale. Tarehe: 2024-07-15."
     },
     {
-        "question": "Je, ni bei gani za sasa za rejareja na jumla za kamba huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Ni bei gani za sasa za rejareja na jumla za kamba huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Kamba (Safi) mjini Vanga ni KSh 220.00 kwa kilo. Bei ya jumla ni 200.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 28.00. Mahali: Kwale. Tarehe: 2024-06-30."
     },
     {
-        "question": "Je, ni bei gani za sasa za rejareja na jumla za kamba huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Ni bei gani za sasa za rejareja na jumla za kamba huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Kamba (Safi) mjini Vanga ni KSh 280.00 kwa kilo. Bei ya jumla ni 250.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 5.00. Mahali: Kwale. Tarehe: 2024-06-28."
     },
     {
-        "question": "Ni bei gani za sasa za rejareja na jumla za kamba huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani za sasa za rejareja na jumla za kamba huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Kamba (Safi) mjini Vanga ni KSh 250.00 kwa kilo. Bei ya jumla ni 230.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 33.00. Mahali: Kwale. Tarehe: 2024-06-22."
     },
     {
@@ -2136,7 +2136,7 @@
         "answer": "Bei ya reja reja ya Kamba (Safi) mjini Vanga ni KSh 220.00 kwa kilo. Bei ya jumla ni 200.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 13.00. Mahali: Kwale. Tarehe: 2024-05-01."
     },
     {
-        "question": "Ni bei gani za sasa za rejareja na jumla za kamba huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani za sasa za rejareja na jumla za kamba huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Kamba (Safi) mjini Vanga ni KSh 220.00 kwa kilo. Bei ya jumla ni 200.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 200.00. Mahali: Kwale. Tarehe: 2024-04-28."
     },
     {
@@ -2177,7 +2177,7 @@
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za kaa wa matope huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya rejareja ya Mud Crabs (Fresh) mjini Vanga ni KSh 300.00 kwa kilo. Bei ya jumla ni 250.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 3.00. Mahali: Kwale. Tarehe: 2023-08-29."
+        "answer": "Bei ya reja reja ya Mud Crabs (Fresh) mjini Vanga ni KSh 300.00 kwa kilo. Bei ya jumla ni 250.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 3.00. Mahali: Kwale. Tarehe: 2023-08-29."
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za kaa za dhahabu (deep-sea) kaa huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -2281,7 +2281,7 @@
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za pweza (pweza) huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya reja reja ya Octopus (Pweza) (Fresh) mjini Vanga ni KSh 400.00 kwa kilo. Bei ya jumla ni 350.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 258.00. Mahali: Kwale. Tarehe: 2024-06-30."
+        "answer": "Bei ya reja reja ya Octopus (Pweza) (Fresh) katika Vanga ni KSh 400.00 kwa kilo. Bei ya jumla ni 350.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 258.00. Mahali: Kwale. Tarehe: 2024-06-30."
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za pweza (pweza) huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -2289,11 +2289,11 @@
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za pweza (pweza) huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya reja reja ya Octopus (Pweza) (Fresh) katika Vanga ni KSh 400.00 kwa kilo. Bei ya jumla ni 350.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 65.00. Mahali: Kwale. Tarehe: 2024-06-22."
+        "answer": "Bei ya reja reja ya Octopus (Pweza) (Fresh) mjini Vanga ni KSh 400.00 kwa kilo. Bei ya jumla ni 350.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 65.00. Mahali: Kwale. Tarehe: 2024-06-22."
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za pweza (pweza) huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya reja reja ya Octopus (Pweza) (Fresh) mjini Vanga ni KSh 400.00 kwa kilo. Bei ya jumla ni 350.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 325.00. Mahali: Kwale. Tarehe: 2024-06-09."
+        "answer": "Bei ya reja reja ya Octopus (Pweza) (Fresh) katika Vanga ni KSh 400.00 kwa kilo. Bei ya jumla ni 350.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 325.00. Mahali: Kwale. Tarehe: 2024-06-09."
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za pweza (pweza) huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -2312,11 +2312,11 @@
         "answer": "Bei ya reja reja ya samaki aina ya Cuttlefish (Safi) mjini Vanga ni KSh 200.00 kwa kilo. Bei ya jumla ni 180.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 16.00. Mahali: Kwale. Tarehe: 2024-03-15."
     },
     {
-        "question": "Je, ni bei gani za sasa za rejareja na jumla za cuttlefish huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani za sasa za rejareja na jumla za samaki aina ya cuttlefish huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya samaki aina ya Cuttlefish (Safi) mjini Vanga ni KSh 220.00 kwa kilo. Bei ya jumla ni 200.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 11.00. Mahali: Kwale. Tarehe: 2024-02-06."
     },
     {
-        "question": "Je, ni bei gani za sasa za rejareja na jumla za cuttlefish huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani za sasa za rejareja na jumla za samaki aina ya cuttlefish huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Cuttlefish (Safi) mjini Vanga ni KSh 230.00 kwa kilo. Bei ya jumla ni 200.00 KSh kwa kilo. Taarifa ya kiasi cha usambazaji haipatikani. Mahali: Kwale. Tarehe: 2023-12-21."
     },
     {
@@ -2324,11 +2324,11 @@
         "answer": "Bei ya reja reja ya samaki aina ya Cuttlefish (Safi) mjini Vanga ni KSh 190.00 kwa kilo. Bei ya jumla ni 150.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 14.00. Mahali: Kwale. Tarehe: 2023-12-03."
     },
     {
-        "question": "Je, ni bei gani za sasa za rejareja na jumla za samaki aina ya cuttlefish huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani za sasa za rejareja na jumla za cuttlefish huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya samaki aina ya Cuttlefish (Safi) mjini Vanga ni KSh 220.00 kwa kilo. Bei ya jumla ni 200.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 5.00. Mahali: Kwale. Tarehe: 2023-10-06."
     },
     {
-        "question": "Je, ni bei gani za sasa za rejareja na jumla za samaki aina ya cuttlefish huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani za sasa za rejareja na jumla za cuttlefish huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya samaki aina ya Cuttlefish (Safi) mjini Vanga ni KSh 200.00 kwa kilo. Bei ya jumla ni 180.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 5.00. Mahali: Kwale. Tarehe: 2023-10-03."
     },
     {
@@ -2733,7 +2733,7 @@
     },
     {
         "question": "Je, bei za sasa za reja reja na jumla za matunda ya shauku katika Soko la Ngurubani ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya reja reja ya Matunda ya Passion katika Soko la Ngurubani ni KSh 250.00 kwa kilo. Bei ya jumla ni 200.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 450.00. Mahali: Kirinyaga. Tarehe: 2024-08-06."
+        "answer": "Bei ya reja reja ya Passion Fruits katika Soko la Ngurubani ni KSh 250.00 kwa kilo. Bei ya jumla ni 200.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 450.00. Mahali: Kirinyaga. Tarehe: 2024-08-06."
     },
     {
         "question": "Je, bei za sasa za rejareja na jumla za machungwa katika Soko la Manispaa ya Kitale ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -2856,7 +2856,7 @@
         "answer": "Bei ya rejareja ya Pepino melon huko Kagio ni KSh 30.00 kwa kilo. Bei ya jumla ni 20.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 600.00. Mahali: Kirinyaga. Tarehe: 2024-07-08."
     },
     {
-        "question": "Je! ni bei gani za sasa za rejareja na jumla za tikitimaji kwenye Soko la Manispaa ya Kitale, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je! ni bei gani za sasa za rejareja na jumla za tikitimaji katika Soko la Manispaa ya Kitale, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya rejareja ya Thorn melon katika Soko la Manispaa ya Kitale ni KSh 70.00 kwa kilo. Bei ya jumla ni 50.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 300.00. Mahali: Trans-Nzoia. Tarehe: 2024-08-08."
     },
     {
@@ -2888,7 +2888,7 @@
         "answer": "Bei ya rejareja ya Thorn melon huko Eldoret Main ni KSh 40.00 kwa kilo. Bei ya jumla ni 35.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 75.00. Mahali: Uasin-Gishu. Tarehe: 2024-08-06."
     },
     {
-        "question": "Je! ni bei gani za sasa za rejareja na jumla za tikitimaji katika Soko la Manispaa ya Kitale, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je! ni bei gani za sasa za rejareja na jumla za tikitimaji kwenye Soko la Manispaa ya Kitale, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya rejareja ya Thorn melon katika Soko la Manispaa ya Kitale ni KSh 80.00 kwa kilo. Bei ya jumla ni 50.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 300.00. Mahali: Trans-Nzoia. Tarehe: 2024-08-05."
     },
     {
@@ -2965,7 +2965,7 @@
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na za jumla za maziwa ya ng'ombe (mahali pa kukusanywa) katika Kibiok, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya reja reja ya Maziwa ya Ng'ombe(Mahali pa kukusanywa) katika Kibiok ni 60.00/Lt KSh kwa kilo. Bei ya jumla ni 50.00/Lt KSh kwa kilo. Kiasi cha usambazaji ni kilo 250.00. Mahali: Nandi. Tarehe: 2024-08-04."
+        "answer": "Bei ya reja reja ya Maziwa ya Ng'ombe(Mahali pa kukusanywa) huko Kibiok ni 60.00/Lt KSh kwa kilo. Bei ya jumla ni 50.00/Lt KSh kwa kilo. Kiasi cha usambazaji ni kilo 250.00. Mahali: Nandi. Tarehe: 2024-08-04."
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za maziwa ya ng'ombe (mahali pa kukusanywa) huko Akala, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -2996,7 +2996,7 @@
         "answer": "Bei ya reja reja ya Maziwa ya Ngamia(Mahali pa kukusanywa) katika Kibiok ni 60.00/Lt KSh kwa kilo. Bei ya jumla ni 45.00/Lt KSh kwa kilo. Kiasi cha usambazaji ni kilo 200.00. Mahali: Nandi. Tarehe: 2024-03-31."
     },
     {
-        "question": "Je, bei za sasa za rejareja na jumla za maziwa ya ngamia ni zipi (mahali pa kukusanyia) huko Kagio, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, bei za sasa za rejareja na jumla za maziwa ya ngamia ni zipi (mahali pa kukusanya) huko Kagio, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya rejareja ya Maziwa ya Ngamia(Katika sehemu ya kukusanyia) huko Kagio ni 60.00/Lt KSh kwa kilo. Bei ya jumla ni 45.00/Lt KSh kwa kilo. Taarifa ya kiasi cha usambazaji haipatikani. Mahali: Kirinyaga. Tarehe: 2024-03-21."
     },
     {
@@ -3005,11 +3005,11 @@
     },
     {
         "question": "Je, bei za sasa za rejareja na jumla za maziwa ya ngamia ni zipi (mahali pa kukusanya) huko Eldoret Main, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya rejareja ya Maziwa ya Ngamia(Katika eneo la kukusanyia) huko Eldoret Main ni 70.00/Lt KSh kwa kilo. Bei ya jumla ni 60.00/Lt KSh kwa kilo. Kiasi cha usambazaji ni kilo 500.00. Mahali: Uasin-Gishu. Tarehe: 2024-03-12."
+        "answer": "Bei ya rejareja ya Maziwa ya Ngamia(Mahali pa kukusanywa) huko Eldoret Main ni 70.00/Lt KSh kwa kilo. Bei ya jumla ni 60.00/Lt KSh kwa kilo. Kiasi cha usambazaji ni kilo 500.00. Mahali: Uasin-Gishu. Tarehe: 2024-03-12."
     },
     {
         "question": "Je, bei za sasa za rejareja na jumla za maziwa ya ngamia ni zipi (mahali pa kukusanya) huko Eldoret Main, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya rejareja ya Maziwa ya Ngamia(Katika eneo la kukusanyia) huko Eldoret Main ni 70.00/Lt KSh kwa kilo. Bei ya jumla ni 60.00/Lt KSh kwa kilo. Kiasi cha usambazaji ni kilo 5000.00. Mahali: Uasin-Gishu. Tarehe: 2024-03-11."
+        "answer": "Bei ya rejareja ya Maziwa ya Ngamia(Mahali pa kukusanywa) huko Eldoret Main ni 70.00/Lt KSh kwa kilo. Bei ya jumla ni 60.00/Lt KSh kwa kilo. Kiasi cha usambazaji ni kilo 5000.00. Mahali: Uasin-Gishu. Tarehe: 2024-03-11."
     },
     {
         "question": "Je, bei za sasa za rejareja na jumla za maziwa ya ngamia ni zipi (mahali pa kukusanya) huko Eldoret Main, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -3205,11 +3205,11 @@
     },
     {
         "question": "Je, bei za sasa za reja reja na jumla za parachichi huko Kerugoya ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya rejareja ya Parachichi (Local) huko Kerugoya ni KSh 40.00 kwa kilo. Bei ya jumla ni 20.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 250.00. Mahali: Kirinyaga. Tarehe: 2024-08-08."
+        "answer": "Bei ya reja reja ya Parachichi (Local) huko Kerugoya ni KSh 40.00 kwa kilo. Bei ya jumla ni 20.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 250.00. Mahali: Kirinyaga. Tarehe: 2024-08-08."
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za parachichi katika Soko la Mogogosiek, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya rejareja ya Parachichi (Local) katika Soko la Mogogosiek ni KSh 20.00 kwa kilo. Bei ya jumla ni 15.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 50.00. Mahali: Bomet. Tarehe: 2024-08-08."
+        "answer": "Bei ya reja reja ya Parachichi (Local) katika Soko la Mogogosiek ni KSh 20.00 kwa kilo. Bei ya jumla ni 15.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 50.00. Mahali: Bomet. Tarehe: 2024-08-08."
     },
     {
         "question": "Je, bei za sasa za reja reja na jumla za parachichi huko Mtwapa ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -3453,7 +3453,7 @@
     },
     {
         "question": "Je, bei za sasa za rejareja na jumla za mahindi mabichi huko Mulot ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya rejareja ya Green Maize katika Mulot ni 80.00 KSh kwa kilo. Bei ya jumla ni 60.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 300.00. Mahali: Bomet. Tarehe: 2024-08-07."
+        "answer": "Bei ya rejareja ya Mahindi Mabichi huko Mulot ni KSh 80.00 kwa kilo. Bei ya jumla ni 60.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 300.00. Mahali: Bomet. Tarehe: 2024-08-07."
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za tikiti maji huko Katito, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -3520,7 +3520,7 @@
         "answer": "Bei ya reja reja ya Mananasi huko Aram ni KSh 87.31 kwa kilo. Bei ya jumla ni 81.49 KSh kwa kilo. Kiasi cha usambazaji ni kilo 150.00. Mahali: Siaya. Tarehe: 2024-08-08."
     },
     {
-        "question": "Je, ni bei gani za sasa za rejareja na jumla za mananasi huko Molo, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, bei za sasa za rejareja na jumla za mananasi huko Molo ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Mananasi huko Molo ni KSh 50.00 kwa kilo. bei ya jumla haipatikani. Kiasi cha usambazaji ni kilo 1200.00. Mahali: Nakuru. Tarehe: 2024-08-08."
     },
     {
@@ -3541,7 +3541,7 @@
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za papai huko Makutano Kirinyaga, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya reja reja ya Papau huko Makutano Kirinyaga ni KSh 35.00 kwa kilo. Bei ya jumla ni 25.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 650.00. Mahali: Kirinyaga. Tarehe: 2024-08-07."
+        "answer": "Bei ya reja reja ya Pawpaw huko Makutano Kirinyaga ni KSh 35.00 kwa kilo. Bei ya jumla ni 25.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 650.00. Mahali: Kirinyaga. Tarehe: 2024-08-07."
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za mapapai huko Kabati - Muranga, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -3581,7 +3581,7 @@
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za maziwa ya ng'ombe (zilizosindikwa) nchini Aram, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya rejareja ya Maziwa ya Ng'ombe(Yaliyosindikwa) nchini Aram ni 160.00/Lt KSh kwa kilo. Bei ya jumla ni 140.00/Lt KSh kwa kilo. Kiasi cha usambazaji ni kilo 1248.00. Mahali: Siaya. Tarehe: 2024-08-08."
+        "answer": "Bei ya reja reja ya Maziwa ya Ng'ombe(Yaliyosindikwa) nchini Aram ni 160.00/Lt KSh kwa kilo. Bei ya jumla ni 140.00/Lt KSh kwa kilo. Kiasi cha usambazaji ni kilo 1248.00. Mahali: Siaya. Tarehe: 2024-08-08."
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za maziwa ya ng'ombe (zilizosindikwa) nchini Aram, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -3744,7 +3744,7 @@
         "answer": "Bei ya reja reja ya Mbaazi Fresh (Kwenye maganda) huko Kutus ni KSh 120.00 kwa kilo. Bei ya jumla ni 100.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 850.00. Mahali: Kirinyaga. Tarehe: 2024-08-08."
     },
     {
-        "question": "Je, bei za sasa za rejareja na jumla za mbaazi mbichi huko Kerugoya ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, bei za sasa za rejareja na jumla za mbaazi safi huko Kerugoya ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya rejareja ya Mbaazi Fresh (Kwenye maganda) huko Kerugoya ni KSh 1005.00 kwa kilo. Bei ya jumla ni 60.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 300.00. Mahali: Kirinyaga. Tarehe: 2024-08-08."
     },
     {
@@ -3844,7 +3844,7 @@
         "answer": "Bei ya reja reja ya Cassava Fresh huko Kathonzweni ni KSh 150.00 kwa kilo. Bei ya jumla ni 50.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 600.00. Mahali: Makueni. Tarehe: 2024-08-06."
     },
     {
-        "question": "Je, bei za sasa za rejareja na jumla za muhogo safi katika Soko la Manispaa ya Kitale ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani za sasa za rejareja na jumla za muhogo safi katika Soko la Manispaa ya Kitale, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Cassava Fresh katika Soko la Manispaa ya Kitale ni KSh 35.00 kwa kilo. Bei ya jumla ni 25.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 6000.00. Mahali: Trans-Nzoia. Tarehe: 2024-08-05."
     },
     {
@@ -3856,7 +3856,7 @@
         "answer": "Bei ya reja reja ya Cassava Fresh huko Gakoromone ni KSh 60.00 kwa kilo. Bei ya jumla ni 40.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 400.00. Mahali: Meru. Tarehe: 2024-08-05."
     },
     {
-        "question": "Je! ni bei gani za sasa za rejareja na jumla za viazi nyeupe za irish katika Soko la Manispaa ya Kitale, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani za sasa za rejareja na jumla za viazi nyeupe za irish katika Soko la Manispaa ya Kitale, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya rejareja ya Viazi Nyeupe za Ireland katika Soko la Manispaa ya Kitale ni KSh 75.00 kwa kilo. Bei ya jumla ni 65.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 21000.00. Mahali: Trans-Nzoia. Tarehe: 2024-08-08."
     },
     {
@@ -4024,7 +4024,7 @@
         "answer": "Bei ya rejareja ya Kondoo (Mmasai Mwekundu) katika Aram ni - KSh kwa kilo. Bei ya jumla ni 3500.00/Head KSh kwa kilo. Kiasi cha usambazaji ni kilo 18.00. Mahali: Siaya. Tarehe: 2024-08-08."
     },
     {
-        "question": "Je! ni bei gani za sasa za rejareja na jumla za kondoo huko Aramu, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani za sasa za rejareja na jumla za kondoo huko Aramu, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya rejareja ya Kondoo (Mmasai Mwekundu) katika Aram ni - KSh kwa kilo. Bei ya jumla ni 4000.00/Head KSh kwa kilo. Kiasi cha usambazaji ni kilo 22.00. Mahali: Siaya. Tarehe: 2024-08-08."
     },
     {
@@ -4036,7 +4036,7 @@
         "answer": "Bei ya rejareja ya Kondoo (Mmasai Mwekundu) katika Aram ni - KSh kwa kilo. Bei ya jumla ni 5000.00/Head KSh kwa kilo. Kiasi cha usambazaji ni kilo 18.00. Mahali: Siaya. Tarehe: 2024-08-08."
     },
     {
-        "question": "Je, ni bei gani za sasa za rejareja na jumla za kondoo huko Aramu, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je! ni bei gani za sasa za rejareja na jumla za kondoo huko Aramu, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya rejareja ya Kondoo (Mmasai Mwekundu) katika Aram ni - KSh kwa kilo. Bei ya jumla ni 5500.00/Head KSh kwa kilo. Kiasi cha usambazaji ni kilo 19.00. Mahali: Siaya. Tarehe: 2024-08-08."
     },
     {
@@ -4044,7 +4044,7 @@
         "answer": "Bei ya rejareja ya Kondoo (Mmasai Mwekundu) katika Aram ni - KSh kwa kilo. Bei ya jumla ni 5500.00/Head KSh kwa kilo. Kiasi cha usambazaji ni kilo 12.00. Mahali: Siaya. Tarehe: 2024-08-08."
     },
     {
-        "question": "Je, ni bei gani za sasa za rejareja na jumla za kondoo huko Aramu, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je! ni bei gani za sasa za rejareja na jumla za kondoo huko Aramu, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya rejareja ya Kondoo (Mmasai Mwekundu) katika Aram ni - KSh kwa kilo. Bei ya jumla ni 6500.00/Head KSh kwa kilo. Kiasi cha usambazaji ni kilo 13.00. Mahali: Siaya. Tarehe: 2024-08-08."
     },
     {
@@ -4052,7 +4052,7 @@
         "answer": "Bei ya rejareja ya Kondoo (Mmasai Mwekundu) katika Aram ni - KSh kwa kilo. Bei ya jumla ni 3500.00/Head KSh kwa kilo. Kiasi cha usambazaji ni kilo 16.00. Mahali: Siaya. Tarehe: 2024-08-08."
     },
     {
-        "question": "Je! ni bei gani za sasa za rejareja na jumla za kondoo huko Aramu, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani za sasa za rejareja na jumla za kondoo huko Aramu, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya rejareja ya Kondoo (Mmasai Mwekundu) katika Aram ni - KSh kwa kilo. Bei ya jumla ni 4000.00/Head KSh kwa kilo. Kiasi cha usambazaji ni kilo 35.00. Mahali: Siaya. Tarehe: 2024-08-08."
     },
     {
@@ -4192,7 +4192,7 @@
         "answer": "Bei ya reja reja ya Butternuts huko Kawangware ni KSh 120.00 kwa kilo. Bei ya jumla ni 70.00 KSh kwa kilo. Taarifa ya kiasi cha usambazaji haipatikani. Mahali: Nairobi. Tarehe: 2024-08-08."
     },
     {
-        "question": "Je, ni bei gani za sasa za reja reja na jumla za butternuts huko Mtwapa, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani za sasa za rejareja na jumla za butternuts huko Mtwapa, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Butternuts mjini Mtwapa ni KSh 100.00 kwa kilo. Bei ya jumla ni 70.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 120.00. Mahali: Kilifi. Tarehe: 2024-08-08."
     },
     {
@@ -4368,8 +4368,8 @@
         "answer": "Bei ya reja reja ya Cauliflower huko Kawangware ni KSh 200.00 kwa kilo. Bei ya jumla ni 120.00 KSh kwa kilo. Taarifa ya kiasi cha usambazaji haipatikani. Mahali: Nairobi. Tarehe: 2024-08-05."
     },
     {
-        "question": "Je, bei za sasa za reja reja na jumla za cauliflower huko Kibuye ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya reja reja ya Cauliflower huko Kibuye ni KSh 180.00 kwa kilo. bei ya jumla haipatikani. Taarifa ya kiasi cha usambazaji haipatikani. Mahali: Kisumu. Tarehe: 2024-08-04."
+        "question": "Je, ni bei gani za sasa za reja reja na jumla za cauliflower huko Kibuye, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "answer": "Bei ya reja reja ya Cauliflower huko Kibuye ni 180.00 KSh kwa kilo. bei ya jumla haipatikani. Taarifa ya kiasi cha usambazaji haipatikani. Mahali: Kisumu. Tarehe: 2024-08-04."
     },
     {
         "question": "Je, ni bei gani za sasa za reja reja na jumla za cauliflower katika Soko la Diani, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -4420,7 +4420,7 @@
         "answer": "Bei ya reja reja ya Tangawizi katika Soko la Manispaa ya Kitale ni KSh 250.00 kwa kilo. Bei ya jumla ni 150.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 460.00. Mahali: Trans-Nzoia. Tarehe: 2024-08-08."
     },
     {
-        "question": "Je, bei za sasa za rejareja na jumla za tangawizi huko Aram ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, bei za sasa za rejareja na jumla za tangawizi nchini Aram ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya rejareja ya Tangawizi nchini Aram ni KSh 238.10 kwa kilo. bei ya jumla haipatikani. Kiasi cha usambazaji ni kilo 120.00. Mahali: Siaya. Tarehe: 2024-08-08."
     },
     {
@@ -4436,7 +4436,7 @@
         "answer": "Bei ya reja reja ya Tangawizi huko Kawangware ni KSh 180.00 kwa kilo. Bei ya jumla ni 150.00 KSh kwa kilo. Taarifa ya kiasi cha usambazaji haipatikani. Mahali: Nairobi. Tarehe: 2024-08-08."
     },
     {
-        "question": "Je, bei za sasa za rejareja na jumla za tangawizi huko Mtwapa ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, bei za sasa za reja reja na jumla za tangawizi huko Mtwapa ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Tangawizi huko Mtwapa ni KSh 200.00 kwa kilo. Bei ya jumla ni 160.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 650.00. Mahali: Kilifi. Tarehe: 2024-08-08."
     },
     {
@@ -4720,7 +4720,7 @@
         "answer": "Bei ya reja reja ya mbaazi za Njiwa huko Nyamakima ni KSh 190.00 kwa kilo. Bei ya jumla ni 133.33 KSh kwa kilo. Taarifa ya kiasi cha usambazaji haipatikani. Mahali: Nairobi. Tarehe: 2024-08-07."
     },
     {
-        "question": "Je, bei za sasa za rejareja na jumla za mbaazi za njiwa katika Soko la Mukuyu ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani ya sasa ya rejareja na jumla ya mbaazi katika Soko la Mukuyu, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya mbaazi katika Soko la Mukuyu ni KSh 200.00 kwa kilo. bei ya jumla haipatikani. Taarifa ya kiasi cha usambazaji haipatikani. Mahali: Muranga. Tarehe: 2024-08-07."
     },
     {
@@ -4776,7 +4776,7 @@
         "answer": "Bei ya reja reja ya kunde huko Kathonzweni ni KSh 60.00 kwa kilo. Bei ya jumla ni 50.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 1800.00. Mahali: Makueni. Tarehe: 2024-08-06."
     },
     {
-        "question": "Je, bei za sasa za rejareja na jumla kwa wabakaji (changu/tangu) huko Vanga ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani za sasa za rejareja na jumla kwa wabakaji (changu/tangu) huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Scavengers (Changu/Tangu) (Fresh) mjini Vanga ni 270.00 KSh kwa kilo. Bei ya jumla ni 250.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 52.00. Mahali: Kwale. Tarehe: 2024-08-05."
     },
     {
@@ -4792,7 +4792,7 @@
         "answer": "Bei ya reja reja ya Scavengers (Changu/Tangu) (Fresh) mjini Vanga ni 270.00 KSh kwa kilo. Bei ya jumla ni 250.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 70.00. Mahali: Kwale. Tarehe: 2024-07-03."
     },
     {
-        "question": "Je, bei za sasa za rejareja na jumla kwa wabakaji (changu/tangu) huko Vanga ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani za sasa za rejareja na jumla kwa wabakaji (changu/tangu) huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Scavengers (Changu/Tangu) (Fresh) mjini Vanga ni 220.00 KSh kwa kilo. Bei ya jumla ni 200.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 53.00. Mahali: Kwale. Tarehe: 2024-06-29."
     },
     {
@@ -4804,15 +4804,15 @@
         "answer": "Bei ya reja reja ya Scavengers (Changu/Tangu) (Fresh) mjini Vanga ni 270.00 KSh kwa kilo. Bei ya jumla ni 250.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 48.00. Mahali: Kwale. Tarehe: 2024-06-23."
     },
     {
-        "question": "Je, ni bei gani za sasa za rejareja na jumla kwa wabakaji (changu/tangu) huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, bei za sasa za rejareja na jumla kwa wabakaji (changu/tangu) huko Vanga ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Scavengers (Changu/Tangu) (Fresh) mjini Vanga ni 220.00 KSh kwa kilo. Bei ya jumla ni 200.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 21.00. Mahali: Kwale. Tarehe: 2024-06-22."
     },
     {
-        "question": "Je, ni bei gani za sasa za rejareja na jumla kwa wabakaji (changu/tangu) huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya reja reja ya Scavengers (Changu/Tangu) (Fresh) mjini Vanga ni 300.00 KSh kwa kilo. Bei ya jumla ni 270.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 37.00. Mahali: Kwale. Tarehe: 2024-06-22."
+        "question": "Je, bei za sasa za rejareja na jumla kwa wabakaji (changu/tangu) huko Vanga ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "answer": "Bei ya reja reja ya Scavengers (Changu/Tangu) (Fresh) mjini Vanga ni KSh 300.00 kwa kilo. Bei ya jumla ni 270.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 37.00. Mahali: Kwale. Tarehe: 2024-06-22."
     },
     {
-        "question": "Je, ni bei gani za sasa za rejareja na jumla kwa wabakaji (changu/tangu) huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, bei za sasa za rejareja na jumla kwa wabakaji (changu/tangu) huko Vanga ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Scavengers (Changu/Tangu) (Fresh) mjini Vanga ni 220.00 KSh kwa kilo. Bei ya jumla ni 200.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 65.00. Mahali: Kwale. Tarehe: 2024-06-21."
     },
     {
@@ -4901,7 +4901,7 @@
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za grunt(taamamba/kora) katika Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya reja reja ya Grunt(Taamamba/Kora) (Imekaushwa) mjini Vanga ni KSh 200.00 kwa kilo. Bei ya jumla ni 170.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 22.00. Mahali: Kwale. Tarehe: 2024-05-04."
+        "answer": "Bei ya rejareja ya Grunt(Taamamba/Kora) (Imekaushwa) huko Vanga ni KSh 200.00 kwa kilo. Bei ya jumla ni 170.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 22.00. Mahali: Kwale. Tarehe: 2024-05-04."
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za grunt(taamamba/kora) katika Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -4936,19 +4936,19 @@
         "answer": "Bei ya reja reja ya Grunt(Taamamba/Kora) (Fresh) mjini Vanga ni KSh 220.00 kwa kilo. Bei ya jumla ni 200.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 15.00. Mahali: Kwale. Tarehe: 2023-08-16."
     },
     {
-        "question": "Je, ni bei gani za sasa za rejareja na jumla za mullets(fumi) huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani za sasa za rejareja na jumla za mullet(fumi) huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Mullets(Fumi) (Fresh) katika Vanga ni 190.00/ Kg KSh kwa kilo. Bei ya jumla ni 170.00/ Kg KSh kwa kilo. Kiasi cha usambazaji ni kilo 8.00. Mahali: Kwale. Tarehe: 2024-06-30."
     },
     {
-        "question": "Je, ni bei gani za sasa za rejareja na jumla za mullet(fumi) huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani za sasa za rejareja na jumla za mullets(fumi) huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Mullets(Fumi) (Fresh) katika Vanga ni 200.00/ Kg KSh kwa kilo. Bei ya jumla ni 150.00/ Kg KSh kwa kilo. Kiasi cha usambazaji ni kilo 7.00. Mahali: Kwale. Tarehe: 2024-05-01."
     },
     {
-        "question": "Je, ni bei gani za sasa za rejareja na jumla za mullets(fumi) huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani za sasa za rejareja na jumla za mullet(fumi) huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Mullets(Fumi) (Fresh) katika Vanga ni 200.00/ Kg KSh kwa kilo. Bei ya jumla ni 180.00/ Kg KSh kwa kilo. Kiasi cha usambazaji ni kilo 19.00. Mahali: Kwale. Tarehe: 2024-03-17."
     },
     {
-        "question": "Je, ni bei gani za sasa za rejareja na jumla za mullets(fumi) huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani za sasa za rejareja na jumla za mullet(fumi) huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Mullets(Fumi) (Fresh) katika Vanga ni 200.00/ Kg KSh kwa kilo. Bei ya jumla ni 180.00/ Kg KSh kwa kilo. Kiasi cha usambazaji ni kilo 36.00. Mahali: Kwale. Tarehe: 2024-02-10."
     },
     {
@@ -4989,15 +4989,15 @@
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za samaki wa upasuaji huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya rejareja ya Surgeonfishes (Fresh) mjini Vanga ni KSh 200.00 kwa kilo. Bei ya jumla ni 170.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 200.00. Mahali: Kwale. Tarehe: 2024-02-10."
+        "answer": "Bei ya reja reja ya Surgeonfishes (Fresh) mjini Vanga ni KSh 200.00 kwa kilo. Bei ya jumla ni 170.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 200.00. Mahali: Kwale. Tarehe: 2024-02-10."
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za samaki wa upasuaji huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya rejareja ya Surgeonfishes (Fresh) mjini Vanga ni KSh 200.00 kwa kilo. Bei ya jumla ni 180.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 250.00. Mahali: Kwale. Tarehe: 2024-01-20."
+        "answer": "Bei ya reja reja ya Surgeonfishes (Fresh) mjini Vanga ni KSh 200.00 kwa kilo. Bei ya jumla ni 180.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 250.00. Mahali: Kwale. Tarehe: 2024-01-20."
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za samaki wa upasuaji huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya reja reja ya Surgeonfishes (Fresh) mjini Vanga ni KSh 200.00 kwa kilo. Bei ya jumla ni 170.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 33.00. Mahali: Kwale. Tarehe: 2023-10-09."
+        "answer": "Bei ya rejareja ya Surgeonfishes (Fresh) mjini Vanga ni KSh 200.00 kwa kilo. Bei ya jumla ni 170.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 33.00. Mahali: Kwale. Tarehe: 2023-10-09."
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za samaki wa upasuaji huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -5005,7 +5005,7 @@
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za samaki wa upasuaji huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya reja reja ya Surgeonfishes (Fresh) mjini Vanga ni KSh 200.00 kwa kilo. Bei ya jumla ni 170.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 25.00. Mahali: Kwale. Tarehe: 2023-09-22."
+        "answer": "Bei ya rejareja ya Surgeonfishes (Fresh) mjini Vanga ni KSh 200.00 kwa kilo. Bei ya jumla ni 170.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 25.00. Mahali: Kwale. Tarehe: 2023-09-22."
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za samaki wa upasuaji huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -5029,11 +5029,11 @@
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za threadfin breams huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya reja reja ya Threadfin breams (Fresh) huko Vanga ni KSh 220.00 kwa kilo. Bei ya jumla ni 150.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 300.00. Mahali: Kwale. Tarehe: 2023-04-20."
+        "answer": "Bei ya reja reja ya Threadfin breams (Fresh) katika Vanga ni KSh 220.00 kwa kilo. Bei ya jumla ni 150.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 300.00. Mahali: Kwale. Tarehe: 2023-04-20."
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za threadfin breams huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya reja reja ya Threadfin breams (Fresh) huko Vanga ni KSh 220.00 kwa kilo. Bei ya jumla ni 150.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 360.00. Mahali: Kwale. Tarehe: 2023-04-14."
+        "answer": "Bei ya reja reja ya Threadfin breams (Fresh) katika Vanga ni KSh 220.00 kwa kilo. Bei ya jumla ni 150.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 360.00. Mahali: Kwale. Tarehe: 2023-04-14."
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za threadfin breams huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -5045,7 +5045,7 @@
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za threadfin breams huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya reja reja ya Threadfin breams (Fresh) huko Vanga ni KSh 220.00 kwa kilo. Bei ya jumla ni 150.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 160.00. Mahali: Kwale. Tarehe: 2023-03-25."
+        "answer": "Bei ya reja reja ya Threadfin breams (Fresh) katika Vanga ni KSh 220.00 kwa kilo. Bei ya jumla ni 150.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 160.00. Mahali: Kwale. Tarehe: 2023-03-25."
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za threadfin breams huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -5165,7 +5165,7 @@
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za sindano huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya rejareja ya Needlefishes (Fresh) katika Vanga ni 250.00/ Kg KSh kwa kilo. Bei ya jumla ni 230.00/ Kg KSh kwa kilo. Kiasi cha usambazaji ni kilo 68.00. Mahali: Kwale. Tarehe: 2024-06-08."
+        "answer": "Bei ya reja reja ya Needlefishes (Fresh) katika Vanga ni 250.00/ Kg KSh kwa kilo. Bei ya jumla ni 230.00/ Kg KSh kwa kilo. Kiasi cha usambazaji ni kilo 68.00. Mahali: Kwale. Tarehe: 2024-06-08."
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za sindano huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -5181,7 +5181,7 @@
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za jeki/trevallies(kolekole) huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya rejareja ya Jacks/Trevallies(Kolekole) (Fresh) mjini Vanga ni 350.00/ Kg KSh kwa kilo. Bei ya jumla ni 300.00/ Kg KSh kwa kilo. Kiasi cha usambazaji ni kilo 320.00. Mahali: Kwale. Tarehe: 2024-05-20."
+        "answer": "Bei ya reja reja ya Jacks/Trevallies(Kolekole) (Fresh) mjini Vanga ni 350.00/ Kg KSh kwa kilo. Bei ya jumla ni 300.00/ Kg KSh kwa kilo. Kiasi cha usambazaji ni kilo 320.00. Mahali: Kwale. Tarehe: 2024-05-20."
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za jeki/trevallies(kolekole) huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -5309,7 +5309,7 @@
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za samaki wa baharini huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya reja reja ya Sailfishes (Fresh) mjini Vanga ni KSh 500.00 kwa kilo. Bei ya jumla ni 370.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 600.00. Mahali: Kwale. Tarehe: 2023-03-06."
+        "answer": "Bei ya rejareja ya Sailfishes (Fresh) mjini Vanga ni KSh 500.00 kwa kilo. Bei ya jumla ni 370.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 600.00. Mahali: Kwale. Tarehe: 2023-03-06."
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za samaki wa baharini katika Soko la Kale la Malindi, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -5413,7 +5413,7 @@
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za marlins katika Soko la Samaki la Old port, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya reja reja ya Marlins (Iliyogandishwa/Iliyopoa) katika Soko la Samaki la Old port ni KSh 500.00 kwa kilo. Bei ya jumla ni 300.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 85.00. Mahali: Mombasa. Tarehe: 2022-10-21."
+        "answer": "Bei ya reja reja ya Marlins (Iliyohifadhiwa/Iliyopoa) katika Soko la Samaki la Old port ni KSh 500.00 kwa kilo. Bei ya jumla ni 300.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 85.00. Mahali: Mombasa. Tarehe: 2022-10-21."
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za jobfish huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -5481,7 +5481,7 @@
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za pelagics mchanganyiko huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya rejareja ya Mixed Pelagics (Fresh) mjini Vanga ni KSh 220.00 kwa kilo. Bei ya jumla ni 200.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 48.00. Mahali: Kwale. Tarehe: 2024-05-26."
+        "answer": "Bei ya reja reja ya Mixed Pelagics (Fresh) mjini Vanga ni KSh 220.00 kwa kilo. Bei ya jumla ni 200.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 48.00. Mahali: Kwale. Tarehe: 2024-05-26."
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za pelagics mchanganyiko huko Vanga, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -5512,7 +5512,7 @@
         "answer": "Bei ya reja reja ya nyama ya Ngamia katika Soko la Mifugo la Nanyuki ni KSh 600.00 kwa kilo. Bei ya jumla ni 500.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 3600.00. Mahali: Laikipia. Tarehe: 2023-10-31."
     },
     {
-        "question": "Je, bei za sasa za rejareja na jumla za nyama ya ngamia ni zipi katika soko la mifugo la Maralal, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, bei za sasa za rejareja na jumla za nyama ya ngamia katika soko la mifugo la Maralal ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya rejareja ya nyama ya Ngamia katika soko la mifugo la Maralal ni KSh 550.00 kwa kilo. Bei ya jumla ni 333.33 KSh kwa kilo. Kiasi cha usambazaji ni kilo 120.00. Mahali: Samburu. Tarehe: 2023-10-26."
     },
     {
@@ -5552,7 +5552,7 @@
         "answer": "Bei ya reja reja ya Nyama Chevon huko Cheptulu ni KSh 600.00 kwa kilo. bei ya jumla haipatikani. Kiasi cha usambazaji ni kilo 95.00. Mahali: Vihiga. Tarehe: 2024-08-02."
     },
     {
-        "question": "Je, ni bei gani za sasa za rejareja na jumla za chevon ya nyama katika Soko la Mifugo la Ilbissil, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, bei za sasa za rejareja na jumla za chevon ya nyama katika Soko la Mifugo la Ilbissil ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya rejareja ya Nyama Chevon katika Soko la Mifugo la Ilbissil ni KSh 700.00 kwa kilo. Bei ya jumla ni 500.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 350.00. Mahali: Kajiado. Tarehe: 2024-08-02."
     },
     {
@@ -5560,7 +5560,7 @@
         "answer": "Bei ya reja reja ya Nyama Chevon huko Cheptulu ni KSh 600.00 kwa kilo. Bei ya jumla ni 550.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 115.00. Mahali: Vihiga. Tarehe: 2024-07-30."
     },
     {
-        "question": "Je, bei za sasa za rejareja na jumla za chevon ya nyama huko Awendo ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani za sasa za rejareja na jumla za chevon ya nyama huko Awendo, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Nyama Chevon huko Awendo ni KSh 600.00 kwa kilo. Bei ya jumla ni 500.00 KSh kwa kilo. Taarifa ya kiasi cha usambazaji haipatikani. Mahali: Migori. Tarehe: 2024-07-29."
     },
     {
@@ -5636,7 +5636,7 @@
         "answer": "Bei ya reja reja ya Asali (Crude) huko Katito ni KSh 1000.00 kwa kilo. bei ya jumla haipatikani. Taarifa ya kiasi cha usambazaji haipatikani. Mahali: Kisumu. Tarehe: 2024-08-08."
     },
     {
-        "question": "Je, ni bei gani za sasa za reja reja na jumla za asali huko Bondo, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, bei za sasa za reja reja na jumla za asali huko Bondo ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Asali (Imechakatwa) huko Bondo ni KSh 1200.00 kwa kilo. Bei ya jumla ni 950.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 1000.00. Mahali: Siaya. Tarehe: 2024-08-06."
     },
     {
@@ -5649,10 +5649,10 @@
     },
     {
         "question": "Je, bei za sasa za reja reja na jumla za asali katika Soko la Mukuyu ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya reja reja ya Asali (Imechakatwa) katika Soko la Mukuyu ni KSh 900.00 kwa kilo. Bei ya jumla ni 800.00 KSh kwa kilo. Taarifa ya kiasi cha usambazaji haipatikani. Mahali: Muranga. Tarehe: 2024-07-27."
+        "answer": "Bei ya reja reja ya Asali (Iliyochakatwa) katika Soko la Mukuyu ni KSh 900.00 kwa kilo. Bei ya jumla ni 800.00 KSh kwa kilo. Taarifa ya kiasi cha usambazaji haipatikani. Mahali: Muranga. Tarehe: 2024-07-27."
     },
     {
-        "question": "Je, bei za sasa za reja reja na jumla za asali huko Bondo ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani za sasa za reja reja na jumla za asali huko Bondo, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Asali (Imechakatwa) katika Bondo ni KSh 1400.00 kwa kilo. Bei ya jumla ni 1100.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 200.00. Mahali: Siaya. Tarehe: 2024-07-26."
     },
     {
@@ -5756,15 +5756,15 @@
         "answer": "Bei ya reja reja ya Ngozi ya Mbuzi huko Katito ni 40.00/Kipande KSh kwa kilo. Bei ya jumla ni 20.00/Kipande KSh kwa kilo. Kiasi cha usambazaji ni kilo 1200.00. Mahali: Kisumu. Tarehe: 2024-08-08."
     },
     {
-        "question": "Je, ni bei gani za sasa za rejareja na jumla za ngozi ya mbuzi huko Sikhendu, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani ya sasa ya rejareja na jumla ya ngozi ya mbuzi huko Sikhendu, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Ngozi ya Mbuzi huko Sikhendu ni 16.67/Kipande KSh kwa kilo. bei ya jumla haipatikani. Kiasi cha usambazaji ni kilo 3.00. Mahali: Trans-Nzoia. Tarehe: 2024-08-03."
     },
     {
-        "question": "Je, ni bei gani za sasa za rejareja na jumla za ngozi ya mbuzi katika Soko la Mifugo la Ilbissil, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani ya sasa ya rejareja na jumla ya ngozi ya mbuzi katika Soko la Mifugo la Ilbissil, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya rejareja ya Ngozi ya Mbuzi katika Soko la Mifugo la Ilbissil ni 40.00/Kipande KSh kwa kilo. Bei ya jumla ni 80.00/Kipande KSh kwa kilo. Kiasi cha usambazaji ni kilo 150.00. Mahali: Kajiado. Tarehe: 2024-07-19."
     },
     {
-        "question": "Je, ni bei gani za sasa za rejareja na jumla za ngozi ya mbuzi huko Sikhendu, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani ya sasa ya rejareja na jumla ya ngozi ya mbuzi huko Sikhendu, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Ngozi ya Mbuzi huko Sikhendu ni 10.00/Kipande KSh kwa kilo. bei ya jumla haipatikani. Kiasi cha usambazaji ni kilo 5.00. Mahali: Trans-Nzoia. Tarehe: 2024-07-13."
     },
     {
@@ -5780,7 +5780,7 @@
         "answer": "Bei ya reja reja ya Ngozi ya Mbuzi huko Sikhendu ni 25.00/Kipande KSh kwa kilo. bei ya jumla haipatikani. Kiasi cha usambazaji ni kilo 2.00. Mahali: Trans-Nzoia. Tarehe: 2024-06-15."
     },
     {
-        "question": "Je, ni bei gani ya sasa ya rejareja na jumla ya ngozi ya mbuzi huko Sikhendu, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani za sasa za rejareja na jumla za ngozi ya mbuzi huko Sikhendu, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Ngozi ya Mbuzi huko Sikhendu ni 25.00/Kipande KSh kwa kilo. bei ya jumla haipatikani. Kiasi cha usambazaji ni kilo 2.00. Mahali: Trans-Nzoia. Tarehe: 2024-06-08."
     },
     {
@@ -5788,7 +5788,7 @@
         "answer": "Bei ya reja reja ya Ngozi ya Mbuzi huko Sikhendu ni 8.33/Kipande KSh kwa kilo. bei ya jumla haipatikani. Kiasi cha usambazaji ni kilo 6.00. Mahali: Trans-Nzoia. Tarehe: 2024-06-01."
     },
     {
-        "question": "Je, ni bei gani za sasa za rejareja na jumla za ngozi ya mbuzi huko Sikhendu, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani ya sasa ya rejareja na jumla ya ngozi ya mbuzi huko Sikhendu, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Ngozi ya Mbuzi huko Sikhendu ni 25.00/Kipande KSh kwa kilo. bei ya jumla haipatikani. Kiasi cha usambazaji ni kilo 2.00. Mahali: Trans-Nzoia. Tarehe: 2024-05-25."
     },
     {
@@ -5904,8 +5904,8 @@
         "answer": "Bei ya reja reja ya Chai katika Keroka ni 420.00/Tonne KSh kwa kilo. Bei ya jumla ni 360.00/Tonne KSh kwa kilo. Kiasi cha usambazaji ni kilo 0.50. Mahali: Nyamira. Tarehe: 2023-01-22."
     },
     {
-        "question": "Je, ni bei gani za sasa za rejareja na jumla za chai huko Keumbu, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya reja reja ya Chai katika Keumbu ni 4800.00/Tonne KSh kwa kilo. Bei ya jumla ni 4000.00/Tonne KSh kwa kilo. Kiasi cha usambazaji ni kilo 0.10. Mahali: Kisii. Tarehe: 2023-01-13."
+        "question": "Je, ni bei gani za sasa za rejareja na jumla za chai katika Keumbu, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "answer": "Bei ya reja reja ya Chai huko Keumbu ni 4800.00/Tonne KSh kwa kilo. Bei ya jumla ni 4000.00/Tonne KSh kwa kilo. Kiasi cha usambazaji ni kilo 0.10. Mahali: Kisii. Tarehe: 2023-01-13."
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za chai katika Akala, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -6001,7 +6001,7 @@
     },
     {
         "question": "Je, ni bei gani ya sasa ya rejareja na jumla ya pumba ya mahindi katika Soko la Mukuyu, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya rejareja ya Mahindi Bran katika Soko la Mukuyu ni KSh 37.50 kwa kilo. bei ya jumla haipatikani. Taarifa ya kiasi cha usambazaji haipatikani. Mahali: Muranga. Tarehe: 2024-04-24."
+        "answer": "Bei ya reja reja ya Mahindi Bran katika Soko la Mukuyu ni KSh 37.50 kwa kilo. bei ya jumla haipatikani. Taarifa ya kiasi cha usambazaji haipatikani. Mahali: Muranga. Tarehe: 2024-04-24."
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za pumba za mahindi katika Soko la Kiria-ini, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -6045,7 +6045,7 @@
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za keki ya alizeti katika Serem - Vihiga, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya reja reja ya Keki ya Alizeti katika Serem - Vihiga ni KSh 60.00 kwa kilo. bei ya jumla haipatikani. Kiasi cha usambazaji ni kilo 400.00. Mahali: Vihiga. Tarehe: 2023-06-26."
+        "answer": "Bei ya rejareja ya Keki ya Alizeti katika Serem - Vihiga ni KSh 60.00 kwa kilo. bei ya jumla haipatikani. Kiasi cha usambazaji ni kilo 400.00. Mahali: Vihiga. Tarehe: 2023-06-26."
     },
     {
         "question": "Bei gani za sasa za rejareja na jumla za keki ya alizeti huko Kibuye, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -6140,7 +6140,7 @@
         "answer": "Bei ya reja reja ya Ndizi (Ripening) huko Mabera ni KSh 46.51 kwa kilo. bei ya jumla haipatikani. Kiasi cha usambazaji ni kilo 2500.00. Mahali: Migori. Tarehe: 2024-08-08."
     },
     {
-        "question": "Je, bei za sasa za rejareja na jumla za ndizi (zinazoiva) katika Kinango ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Bei gani za sasa za reja reja na jumla za ndizi (zinazoiva) huko Kinango, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Ndizi (Ripening) huko Kinango ni KSh 65.00 kwa kilo. Bei ya jumla ni 45.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 2000.00. Mahali: Kwale. Tarehe: 2024-08-08."
     },
     {
@@ -6176,7 +6176,7 @@
         "answer": "Bei ya reja reja ya Kuku (Kienyeji Iliyoboreshwa) katika Soko la Mifugo la Lubao ni - KSh kwa kilo. Bei ya jumla ni 1000.00/Head KSh kwa kilo. Kiasi cha usambazaji ni kilo 150.00. Mahali: Kakamega. Tarehe: 2024-08-08."
     },
     {
-        "question": "Je, ni bei gani za sasa za rejareja na jumla za kuku huko Aram, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani za sasa za rejareja na jumla za kuku katika Aram, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Kuku (wa Asili) katika Aram ni - KSh kwa kilo. Bei ya jumla ni 350.00/Head KSh kwa kilo. Kiasi cha usambazaji ni kilo 28.00. Mahali: Siaya. Tarehe: 2024-08-08."
     },
     {
@@ -6184,28 +6184,28 @@
         "answer": "Bei ya reja reja ya Kuku (Broiler) katika Aram ni - KSh kwa kilo. Bei ya jumla ni 400.00/Head KSh kwa kilo. Kiasi cha usambazaji ni kilo 28.00. Mahali: Siaya. Tarehe: 2024-08-08."
     },
     {
-        "question": "Je, ni bei gani za sasa za rejareja na jumla za kuku katika Aram, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani za sasa za rejareja na jumla za kuku huko Aram, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Kuku (wa Asili) katika Aram ni - KSh kwa kilo. Bei ya jumla ni 500.00/Head KSh kwa kilo. Kiasi cha usambazaji ni kilo 37.00. Mahali: Siaya. Tarehe: 2024-08-08."
     },
     {
-        "question": "Je, ni bei gani za sasa za rejareja na jumla za kuku katika Aram, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani za sasa za rejareja na jumla za kuku huko Aram, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Kuku (wa Asili) katika Aram ni - KSh kwa kilo. Bei ya jumla ni 600.00/Head KSh kwa kilo. Kiasi cha usambazaji ni kilo 31.00. Mahali: Siaya. Tarehe: 2024-08-08."
     },
     {
-        "question": "Je, ni bei gani za sasa za rejareja na jumla za kuku huko Aram, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani za sasa za rejareja na jumla za kuku katika Aram, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Kuku (wa Asili) katika Aram ni - KSh kwa kilo. Bei ya jumla ni 700.00/Head KSh kwa kilo. Kiasi cha usambazaji ni kilo 19.00. Mahali: Siaya. Tarehe: 2024-08-08."
     },
     {
-        "question": "Je, ni bei gani za sasa za rejareja na jumla za kuku katika Aram, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani za sasa za rejareja na jumla za kuku huko Aram, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Kuku (wa Asili) katika Aram ni - KSh kwa kilo. Bei ya jumla ni 800.00/Head KSh kwa kilo. Kiasi cha usambazaji ni kilo 12.00. Mahali: Siaya. Tarehe: 2024-08-08."
     },
     {
-        "question": "Je, ni bei gani za sasa za rejareja na jumla za kuku katika Aram, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani za sasa za rejareja na jumla za kuku huko Aram, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Kuku (wa Asili) katika Aram ni - KSh kwa kilo. Bei ya jumla ni 350.00/Head KSh kwa kilo. Kiasi cha usambazaji ni kilo 16.00. Mahali: Siaya. Tarehe: 2024-08-08."
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za mbegu za macademia katika Soko la Mukuyu, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya reja reja ya Macademia Seed katika Soko la Mukuyu ni KSh 100.00 kwa kilo. bei ya jumla haipatikani. Taarifa ya kiasi cha usambazaji haipatikani. Mahali: Muranga. Tarehe: 2024-07-31."
+        "answer": "Bei ya rejareja ya Macademia Seed katika Soko la Mukuyu ni KSh 100.00 kwa kilo. bei ya jumla haipatikani. Taarifa ya kiasi cha usambazaji haipatikani. Mahali: Muranga. Tarehe: 2024-07-31."
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za mbegu za macademia katika Soko la Mukuyu, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -6233,7 +6233,7 @@
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za mbegu za macademia katika Soko la Mukuyu, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya reja reja ya Macademia Seed katika Soko la Mukuyu ni KSh 100.00 kwa kilo. bei ya jumla haipatikani. Taarifa ya kiasi cha usambazaji haipatikani. Mahali: Muranga. Tarehe: 2024-06-12."
+        "answer": "Bei ya rejareja ya Macademia Seed katika Soko la Mukuyu ni KSh 100.00 kwa kilo. bei ya jumla haipatikani. Taarifa ya kiasi cha usambazaji haipatikani. Mahali: Muranga. Tarehe: 2024-06-12."
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za mbegu za macademia katika Soko la Mukuyu, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -6273,7 +6273,7 @@
     },
     {
         "question": "Je, ni bei gani ya sasa ya rejareja na jumla ya majani ya kunde (kunde) katika Ahero, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya reja reja ya majani ya kunde (Kunde) huko Ahero ni KSh 60.00 kwa kilo. Bei ya jumla ni 50.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 4200.00. Mahali: Kisumu. Tarehe: 2024-08-06."
+        "answer": "Bei ya reja reja ya majani ya kunde (Kunde) katika Ahero ni KSh 60.00 kwa kilo. Bei ya jumla ni 50.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 4200.00. Mahali: Kisumu. Tarehe: 2024-08-06."
     },
     {
         "question": "Je, ni bei gani ya sasa ya rejareja na jumla ya majani ya kunde (kunde) huko Mtwapa, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -6420,7 +6420,7 @@
         "answer": "Bei ya rejareja ya Crotolaria Asilia (Mito/Miro) katika Soko la Isebania ni KSh 133.33 kwa kilo. bei ya jumla haipatikani. Kiasi cha usambazaji ni kilo 15.00. Mahali: Migori. Tarehe: 2024-08-07."
     },
     {
-        "question": "Je, ni bei gani za sasa za rejareja na jumla za crotolaria asilia (mito/miro) huko Kawangware, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, bei za sasa za reja reja na jumla za crotolaria asilia (mito/miro) huko Kawangware ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya rejareja ya Crotolaria Asilia (Mito/Miro) huko Kawangware ni KSh 140.00 kwa kilo. Bei ya jumla ni 100.00 KSh kwa kilo. Taarifa ya kiasi cha usambazaji haipatikani. Mahali: Nairobi. Tarehe: 2024-08-07."
     },
     {
@@ -6428,7 +6428,7 @@
         "answer": "Bei ya reja reja ya Crotolaria Asilia (Mito/Miro) katika Ahero ni KSh 170.00 kwa kilo. Bei ya jumla ni 150.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 480.00. Mahali: Kisumu. Tarehe: 2024-08-06."
     },
     {
-        "question": "Je, bei za sasa za reja reja na jumla za crotolaria asilia (mito/miro) huko Kawangware ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani za sasa za rejareja na jumla za crotolaria asilia (mito/miro) huko Kawangware, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya rejareja ya Crotolaria Asilia (Mito/Miro) huko Kawangware ni KSh 140.00 kwa kilo. Bei ya jumla ni 100.00 KSh kwa kilo. Taarifa ya kiasi cha usambazaji haipatikani. Mahali: Nairobi. Tarehe: 2024-08-06."
     },
     {
@@ -6469,7 +6469,7 @@
     },
     {
         "question": "Je, bei za sasa za rejareja na jumla za mafuta ya soya huko Bondeni ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya rejareja ya mafuta ya Soya huko Bondeni ni 225.00/Lt KSh kwa kilo. Bei ya jumla ni 180.00/Lt KSh kwa kilo. Kiasi cha usambazaji ni kilo 200.00. Mahali: Trans-Nzoia. Tarehe: 2023-01-24."
+        "answer": "Bei ya reja reja ya mafuta ya Soya huko Bondeni ni 225.00/Lt KSh kwa kilo. Bei ya jumla ni 180.00/Lt KSh kwa kilo. Kiasi cha usambazaji ni kilo 200.00. Mahali: Trans-Nzoia. Tarehe: 2023-01-24."
     },
     {
         "question": "Je, bei za sasa za rejareja na jumla za mafuta ya soya katika mji wa Kimilili ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -6789,7 +6789,7 @@
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za maharagwe mchanganyiko katika Soko la Manispaa ya Kitale, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya rejareja ya Maharage Mchanganyiko katika Soko la Manispaa ya Kitale ni KSh 90.00 kwa kilo. Bei ya jumla ni 75.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 6000.00. Mahali: Trans-Nzoia. Tarehe: 2024-08-05."
+        "answer": "Bei ya reja reja ya Maharage Mchanganyiko katika Soko la Manispaa ya Kitale ni KSh 90.00 kwa kilo. Bei ya jumla ni 75.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 6000.00. Mahali: Trans-Nzoia. Tarehe: 2024-08-05."
     },
     {
         "question": "Je, bei za sasa za rejareja na jumla za maharagwe mchanganyiko katika Soko la Mifugo la Butere ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -6844,7 +6844,7 @@
         "answer": "Bei ya rejareja ya Rockcode(Tewa) huko Vanga ni KSh 200.00 kwa kilo. Bei ya jumla ni 180.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 5.00. Mahali: Kwale. Tarehe: 2023-07-17."
     },
     {
-        "question": "Je, bei za sasa za reja reja na jumla za samaki aina ya queenfish (pandu) katika soko la Malindi Old Market ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, bei za sasa za reja reja na jumla za samaki aina ya queenfish (pandu) katika Soko la Malindi Old Market ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Queenfish (Pandu) katika Soko la Kale la Malindi ni KSh 350.00 kwa kilo. Bei ya jumla ni 214.29 KSh kwa kilo. Kiasi cha usambazaji ni kilo 14.00. Mahali: Kilifi. Tarehe: 2024-04-15."
     },
     {
@@ -6904,7 +6904,7 @@
         "answer": "Bei ya reja reja ya Unga wa Mahindi (Amaize) katika Mji wa Mwingi ni KSh 100.00 kwa kilo. Bei ya jumla ni 87.50 KSh kwa kilo. Kiasi cha usambazaji ni kilo 2400.00. Mahali: Kitui. Tarehe: 2024-08-08."
     },
     {
-        "question": "Je, bei za sasa za reja reja na jumla za unga wa mahindi katika Maduka makubwa ya Nairobi ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, bei za sasa za reja reja na jumla za unga wa mahindi katika maduka makubwa ya Nairobi ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Unga wa Mahindi (Ugali Afya) katika Maduka makubwa ya Nairobi ni KSh 117.50 kwa kilo. bei ya jumla haipatikani. Taarifa ya kiasi cha usambazaji haipatikani. Mahali: Nairobi. Tarehe: 2024-08-07."
     },
     {
@@ -6912,11 +6912,11 @@
         "answer": "Bei ya rejareja ya Unga wa Mahindi (unga wa mahindi wa Tajiri) katika Maduka makubwa ya Nairobi ni KSh 58.50 kwa kilo. bei ya jumla haipatikani. Taarifa ya kiasi cha usambazaji haipatikani. Mahali: Nairobi. Tarehe: 2024-08-07."
     },
     {
-        "question": "Je, bei za sasa za reja reja na jumla za unga wa mahindi katika maduka makubwa ya Nairobi ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, bei za sasa za reja reja na jumla za unga wa mahindi katika Maduka makubwa ya Nairobi ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Unga wa Mahindi (Taifa) katika Maduka makubwa ya Nairobi ni KSh 65.50 kwa kilo. bei ya jumla haipatikani. Taarifa ya kiasi cha usambazaji haipatikani. Mahali: Nairobi. Tarehe: 2024-08-07."
     },
     {
-        "question": "Je, bei za sasa za reja reja na jumla za unga wa mahindi katika maduka makubwa ya Nairobi ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, bei za sasa za reja reja na jumla za unga wa mahindi katika Maduka makubwa ya Nairobi ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Unga wa Mahindi (Soko) katika Maduka makubwa ya Nairobi ni KSh 65.00 kwa kilo. bei ya jumla haipatikani. Taarifa ya kiasi cha usambazaji haipatikani. Mahali: Nairobi. Tarehe: 2024-08-07."
     },
     {
@@ -6968,7 +6968,7 @@
         "answer": "Bei ya reja reja ya Ndizi (Kupikia) huko Bondo ni KSh 70.00 kwa kilo. Bei ya jumla ni 50.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 2000.00. Mahali: Siaya. Tarehe: 2024-08-08."
     },
     {
-        "question": "Je, ni bei gani za sasa za rejareja na jumla za ndizi (kupikia) huko Katito, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani za sasa za reja reja na jumla za ndizi (kupikia) huko Katito, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Ndizi (Kupikia) huko Katito ni KSh 50.00 kwa kilo. Bei ya jumla ni 30.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 2300.00. Mahali: Kisumu. Tarehe: 2024-08-08."
     },
     {
@@ -7004,7 +7004,7 @@
         "answer": "Bei ya reja reja ya Ndizi (Kupikia) huko Kutus ni KSh 25.00 kwa kilo. Bei ya jumla ni 20.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 3200.00. Mahali: Kirinyaga. Tarehe: 2024-08-08."
     },
     {
-        "question": "Je, ni bei gani za sasa za rejareja na jumla za ndizi (plantain) huko Bondo, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani za sasa za reja reja na jumla za ndizi (plantain) huko Bondo, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Ndizi (Plantain) huko Bondo ni KSh 50.00 kwa kilo. Bei ya jumla ni 40.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 4000.00. Mahali: Siaya. Tarehe: 2024-08-08."
     },
     {
@@ -7012,7 +7012,7 @@
         "answer": "Bei ya reja reja ya Ndizi (Plantain) huko Kutus ni KSh 110.00 kwa kilo. Bei ya jumla ni 95.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 1300.00. Mahali: Kirinyaga. Tarehe: 2024-08-08."
     },
     {
-        "question": "Je, ni bei gani za sasa za rejareja na jumla za ndizi (migomba) katika Soko la Isebania, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, bei za sasa za reja reja na jumla za ndizi (migomba) katika Soko la Isebania ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Ndizi (Plantain) katika Soko la Isebania ni KSh 50.00 kwa kilo. bei ya jumla haipatikani. Kiasi cha usambazaji ni kilo 900.00. Mahali: Migori. Tarehe: 2024-08-07."
     },
     {
@@ -7176,7 +7176,7 @@
         "answer": "Bei ya rejareja ya Mizani ya Samaki katika Kibiok ni KSh 100.00 kwa kilo. Bei ya jumla ni 90.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 300.00. Mahali: Nandi. Tarehe: 2024-04-14."
     },
     {
-        "question": "Je, ni bei gani za sasa za rejareja na jumla za mizani ya samaki huko Serem-Nandi, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani za sasa za reja reja na jumla za mizani ya samaki huko Serem-Nandi, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Mizani ya Samaki katika Serem - Nandi ni KSh 2500.00 kwa kilo. Bei ya jumla ni 1250.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 2800.00. Mahali: Nandi. Tarehe: 2024-03-23."
     },
     {
@@ -7220,7 +7220,7 @@
         "answer": "Bei ya reja reja ya Tangerine (Sandara) huko Kabati - Muranga ni KSh 70.00 kwa kilo. Bei ya jumla ni 50.00 KSh kwa kilo. Taarifa ya kiasi cha usambazaji haipatikani. Mahali: Muranga. Tarehe: 2024-08-07."
     },
     {
-        "question": "Je, ni bei gani za sasa za reja reja na jumla za tangerine (sandara) katika Soko la Mukuyu, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je, ni bei gani za sasa za rejareja na jumla za tangerine (sandara) katika Soko la Mukuyu, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Tangerine (Sandara) katika Soko la Mukuyu ni KSh 150.00 kwa kilo. bei ya jumla haipatikani. Taarifa ya kiasi cha usambazaji haipatikani. Mahali: Muranga. Tarehe: 2024-08-07."
     },
     {
@@ -7244,7 +7244,7 @@
         "answer": "Bei ya reja reja ya Tangerine (Sandara) katika Soko la Kiria-ini ni KSh 80.00 kwa kilo. Bei ya jumla ni 80.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 800.00. Mahali: Muranga. Tarehe: 2024-08-01."
     },
     {
-        "question": "Je, ni bei gani za sasa za rejareja na jumla za pasta katika Amukura, na ni kiasi gani cha usambazaji kinachopatikana?",
+        "question": "Je! ni bei gani za sasa za rejareja na jumla za pasta huko Amukura, na ni kiasi gani cha usambazaji kinachopatikana?",
         "answer": "Bei ya reja reja ya Pasta katika Amukura ni KSh 300.00 kwa kilo. bei ya jumla haipatikani. Kiasi cha usambazaji ni kilo 24.00. Mahali: Busia. Tarehe: 2023-08-04."
     },
     {
@@ -7357,7 +7357,7 @@
     },
     {
         "question": "Je, ni bei gani za sasa za reja reja na jumla za unga wa ngano katika Maduka makubwa ya Nairobi, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya rejareja ya Unga wa Ngano (Soko Atta Mark 1) katika Maduka makubwa ya Nairobi ni KSh 82.00 kwa kilo. bei ya jumla haipatikani. Taarifa ya kiasi cha usambazaji haipatikani. Mahali: Nairobi. Tarehe: 2024-08-07."
+        "answer": "Bei ya rejareja ya Unga wa Ngano (Soko Atta Mark 1) katika Maduka makubwa ya Nairobi ni 82.00 KSh kwa kilo. bei ya jumla haipatikani. Taarifa ya kiasi cha usambazaji haipatikani. Mahali: Nairobi. Tarehe: 2024-08-07."
     },
     {
         "question": "Je, ni bei gani za sasa za reja reja na jumla za unga wa ngano katika Maduka makubwa ya Nairobi, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -7417,7 +7417,7 @@
     },
     {
         "question": "Je, bei za sasa za rejareja na jumla za nazi katika Lungalunga ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya rejareja ya Nazi katika Lungalunga ni KSh 200.00 kwa kilo. Bei ya jumla ni 150.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 3000.00. Mahali: Kwale. Tarehe: 2024-07-19."
+        "answer": "Bei ya reja reja ya Nazi katika Lungalunga ni KSh 200.00 kwa kilo. Bei ya jumla ni 150.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 3000.00. Mahali: Kwale. Tarehe: 2024-07-19."
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za nazi huko Wundanyi, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -7433,7 +7433,7 @@
     },
     {
         "question": "Je, bei za sasa za rejareja na jumla za nazi katika Lungalunga ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya rejareja ya Nazi katika Lungalunga ni KSh 200.00 kwa kilo. Bei ya jumla ni 150.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 3000.00. Mahali: Kwale. Tarehe: 2024-07-06."
+        "answer": "Bei ya reja reja ya Nazi katika Lungalunga ni KSh 200.00 kwa kilo. Bei ya jumla ni 150.00 KSh kwa kilo. Kiasi cha usambazaji ni kilo 3000.00. Mahali: Kwale. Tarehe: 2024-07-06."
     },
     {
         "question": "Je, ni bei gani za sasa za rejareja na jumla za nazi huko Wundanyi, na ni kiasi gani cha usambazaji kinachopatikana?",
@@ -7441,7 +7441,7 @@
     },
     {
         "question": "Je, bei za sasa za rejareja na jumla za nazi huko Kibuye ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
-        "answer": "Bei ya reja reja ya Nazi huko Kibuye ni KSh 120.00 kwa kilo. bei ya jumla haipatikani. Taarifa ya kiasi cha usambazaji haipatikani. Mahali: Kisumu. Tarehe: 2024-06-30."
+        "answer": "Bei ya reja reja ya Nazi katika Kibuye ni KSh 120.00 kwa kilo. bei ya jumla haipatikani. Taarifa ya kiasi cha usambazaji haipatikani. Mahali: Kisumu. Tarehe: 2024-06-30."
     },
     {
         "question": "Je, bei za sasa za reja reja na jumla za bamia (vidole vya mwanamke au gumbo) katika Charo wa Mae ni zipi, na ni kiasi gani cha usambazaji kinachopatikana?",
